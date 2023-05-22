@@ -1,8 +1,8 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
-#    url: "https://github.com/pfroysdon/publications"
+#    url: /publications/
+    url: https://github.com/pfroysdon/publications
 
 #   - title: "Projects"
 #     url: "https://github.com/pfroysdon/projects"
