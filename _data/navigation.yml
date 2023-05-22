@@ -4,8 +4,11 @@ main:
 #    url: /publications/
     url: https://github.com/pfroysdon/publications
 
-   - title: "Projects"
-     url: https://github.com/pfroysdon/projects
+  - title: "Projects"
+    url: https://github.com/pfroysdon/projects
+
+  - title: "Reading Rack"
+    url: https://github.com/pfroysdon/reading_rack
 
 #  - title: "Talks"
 #    url: /talks/    
