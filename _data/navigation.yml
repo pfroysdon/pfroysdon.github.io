@@ -1,11 +1,10 @@
 # main links links
 main:
   - title: "Publications"
-    url: https://github.com/pfroysdon/publications
-#    url: /publications/
+    url: "https://github.com/pfroysdon/publications"
 
    - title: "Projects"
-     url: https://github.com/pfroysdon/projects
+     url: "https://github.com/pfroysdon/projects"
 
 #  - title: "Talks"
 #    url: /talks/    
