@@ -16,7 +16,7 @@ Note: **Most projects require a password to access the source code**, while othe
 
 # Aerospace
 <p align="center">
-	<img width="600" img src="https://github.com/pfroysdon/projects/blob/main/figures/aircraft_design_toolbox2.png">
+	<img width="600" img src="aircraft_design_toolbox2.png">
 </p>
 
 ## Simulation and Analysis
