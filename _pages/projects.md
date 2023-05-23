@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-# Project Overview
 This repository is a **collection of projects from my MS & PhD research, and hobby interests**.  
 
 
