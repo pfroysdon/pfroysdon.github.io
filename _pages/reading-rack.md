@@ -17,7 +17,7 @@ This is a repository for the books and papers I have read in the last 25 years o
 
 
 
------------------------------------------------------------------------------------
+================================================================================
 # Most Recent Reads
 
 - [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](https://amzn.to/3JUKf9N) A great story about creativity and how to overcome your personal obstacles. 05/23
@@ -29,7 +29,7 @@ This is a repository for the books and papers I have read in the last 25 years o
 
 
 
------------------------------------------------------------------------------------
+================================================================================
 # Textbooks
 
 
@@ -274,7 +274,7 @@ Most of the ML literature I have read is contained in technical papers, which I 
 
 
 
------------------------------------------------------------------------------------
+================================================================================
 # Technical Papers
 
 **Note:** There are **literally hundreds (maybe thousands)** of technical papers that I have read in the last 25 years.  I will post nearly all of them, but I will only provide my comments on a subset that I found impactful in my research.  Please be patient as I locate and upload these papers.
@@ -294,7 +294,7 @@ The Law papers that I have read are organized in [this folder.](https://github.c
 
 
 
------------------------------------------------------------------------------------
+================================================================================
 # Casual Reading
 
 **Note:** I have ~200 books that I have read in this area.  I will post the photos, links, and reviews soon.  Below is a partial list.
