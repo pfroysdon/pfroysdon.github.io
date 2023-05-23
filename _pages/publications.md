@@ -30,7 +30,7 @@ You can view the flow-chart [here.](https://github.com/pfroysdon/publications/bl
 
 # Math Notes
 <p align="center">
-	<img width="600" img src="/images/LS.png">
+	<img width="250" img src="/images/LS.png">
 </p>
 
 [This folder](https://github.com/pfroysdon/publications/tree/main/Math_Notes) is a collection of math reference notes on various subjects in Machine Learning.
@@ -39,7 +39,7 @@ For example *Algebra* has a list of commonly used algebra equations that most fo
 
 # Publications	
 <p align="center">
-	<img width="600" img src="/images/pub.png">
+	<img width="250" img src="/images/pub.png">
 </p>
 
 [This folder](https://github.com/pfroysdon/publications/tree/main/Papers) contains most of the journal papers, conference papers, and technical notes that I have published.  The topics range from computational fluid dynamics (CFD), aircraft design, autopilot design, GPS-INS ("SatNav") and navigation system design, applied mathematics and probability theory.
