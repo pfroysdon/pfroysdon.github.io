@@ -13,6 +13,8 @@ This is a collection of projects from my **MS research, PhD research, and hobby 
 Note: **Most projects require a password to access the source code**, while others are free and open to the public.  This page is a **work in progress,** some projects are better documented than others.  I will clean this up as I have time to do so.
 
 
+
+-----------------------------------------------------------------------------------
 # Aerospace
 <p align="center">
 	<img width="600" img src="/images/aircraft_design_toolbox2.png">
@@ -45,6 +47,7 @@ This repo is a collection of tools from my **masters and Ph.D. research and publ
 
 
 
+-----------------------------------------------------------------------------------
 # Applied Math
 <p align="center">
 	<img width="500" img src="/images/ILP_Lite_Main.png">
@@ -58,6 +61,8 @@ This repo is a collection of tools from **personal and Ph.D. research in mathema
 - [**OFDM**](https://github.com/pfroysdon/projects/blob/main/applied_math/ofdm) is an advanced sim for othogonal frequency division multiplexing.
 
 
+
+-----------------------------------------------------------------------------------
 # Navigation
 <p align="center">
 	<img width="500" img src="/images/navigation_toolbox2.png">
@@ -102,12 +107,17 @@ This repo is a collection of tools from my **Ph.D. research and publications**:
 - [**RTK (Software & GUI)**](https://github.com/pfroysdon/projects/blob/main/navigation/rtk) is a complete implementation of a real-time kinematic GPS positioning system using both a base station and rover for 1 cm level positioning.
 
 
+
+-----------------------------------------------------------------------------------
 # Musings
 This repo is a collection of random projects:
 - [**Garden Bot**](https://github.com/pfroysdon/projects/blob/main/musings/garden_bot) is a real-time embedded software for a garden irrigation system.
 - [**Package Shaker**](https://github.com/pfroysdon/projects/blob/main/musings/package_shaker) is a real-time embedded software for a "Gag Gift" that, when triggered, either shakes a package, sounds a siren or plays a melody.
 - [**Greenhouse**](https://github.com/pfroysdon/projects/blob/main/musings/greenhouse) is a complete build guide with blueprints for 10'x12' floating panel greenhouse that can be built using common tools and materials sourced from any home-improvement store.
 
+
+
+-----------------------------------------------------------------------------------
 # Watchmaker
 This repo is a collection of tools for **watchmakers**:
 - [**Beat Rate**](https://github.com/pfroysdon/projects/blob/main/watchmaker/beat_rate) this tool uses recorded audio of a mechanical watch to determine the beat rate and phase of the balance.  Beat error results in a watch running fast or slow.  This enables the precise adjustment of a mechanical watch to reduce beat error. 
