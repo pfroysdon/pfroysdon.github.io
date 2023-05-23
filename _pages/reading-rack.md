@@ -33,7 +33,7 @@ This is a repository for the books and papers I have read in the last 25 years o
 # Textbooks
 
 
-### Theoretical Physics
+## Theoretical Physics
 <p align="center">
 	<img width="500" img src="/images/IMG_3748.jpg">
 </p>
@@ -61,7 +61,7 @@ This is a repository for the books and papers I have read in the last 25 years o
 - [The Physical Principles of the Quantum Theory - Werner Heisenberg](https://amzn.to/3JV4kOm)
 
 
-### Math
+## Math
 <p align="center">
 	<img width="500" img src="/images/IMG_3744.jpg">
 </p>
@@ -134,7 +134,7 @@ Great review books. **If you want to learn a subject, skip the other books and j
 - [Schaum's Outline of Advanced Calculus](https://amzn.to/42w1whN) 02/09
 
 
-### Machine Learning & Deep Learning
+## Machine Learning & Deep Learning
 <p align="center">
 	<img width="500" img src="/images/IMG_3727.jpg">
 </p>
@@ -154,7 +154,7 @@ Most of the ML literature I have read is contained in technical papers, which I 
 - [Machine Learning: a Concise Introduction - Knox](https://amzn.to/3Z7JaB1) **I know the author personally** 06/19
 
 
-### Cyber & Software
+## Cyber & Software
 
 - [Book on C, A: Programming in C](https://amzn.to/3FGEGuf) 04/08
 - [C Programming Language](https://amzn.to/3LGJljl) 04/08
@@ -163,7 +163,7 @@ Most of the ML literature I have read is contained in technical papers, which I 
 - [Gray Hat Python: Python Programming for Hackers and Reverse Engineers](https://amzn.to/40nmZrm) 10/17
 
 
-### Law, AI Law & Cyber Law
+## Law, AI Law & Cyber Law
 <p align="center">
 	<img width="500" img src="/images/IMG_3728.jpg">
 </p>
@@ -187,7 +187,7 @@ Most of the ML literature I have read is contained in technical papers, which I 
 - [Advanced Introduction to Cybersecurity Law](https://amzn.to/3Jz0oBh) 02/23
 
 
-### Aeronautical & Mechanical Engineering, Stability & Control, Aircraft Design
+## Aeronautical & Mechanical Engineering, Stability & Control, Aircraft Design
 <p align="center">
 	<img width="500" img src="/images/IMG_3745.jpg">
 	<img width="500" img src="/images/IMG_3746.jpg">
@@ -228,7 +228,7 @@ Most of the ML literature I have read is contained in technical papers, which I 
 - [Aircraft Control and Simulation - Stevens & Lewis](https://amzn.to/3JHLadA) Great book for 6DOF simulation design. 10/10
 
 
-### Electrical Engineering, Navigation Theory, State Estimation, Signal Processing
+## Electrical Engineering, Navigation Theory, State Estimation, Signal Processing
 <p align="center">
 	<img width="500" img src="/images/IMG_3743.jpg">
 </p>
@@ -259,7 +259,7 @@ Most of the ML literature I have read is contained in technical papers, which I 
 - [Kalman Filtering : Theory and Practice Using MATLAB](https://amzn.to/40rxrOM) **I know the author personally** 07/10
 
 
-### Watchmaking
+## Watchmaking
 <p align="center">
 	<img width="500" img src="/images/IMG_3747.jpg">
 </p>
@@ -279,17 +279,17 @@ Most of the ML literature I have read is contained in technical papers, which I 
 
 **Note:** There are **literally hundreds (maybe thousands)** of technical papers that I have read in the last 25 years.  I will post nearly all of them, but I will only provide my comments on a subset that I found impactful in my research.  Please be patient as I locate and upload these papers.
 
-### Machine Learning and Artificial Intelligence
+## Machine Learning and Artificial Intelligence
 The technical papers that I have read are organized in [this folder.](https://github.com/pfroysdon/reading_rack/tree/main/ml)
 
 - [Foundation Models](https://hai.stanford.edu/news/reflections-foundation-models) seem to be the next wave.  I am presently reading their [214 page report](https://crfm.stanford.edu/assets/report.pdf) and I will provide my findings.
 
 
-### Medical Journals and Papers
+## Medical Journals and Papers
 The medical papers that I have read are organized in [this folder.](https://github.com/pfroysdon/reading_rack/tree/main/med)
 
 
-### Law Journals and Papers
+## Law Journals and Papers
 The Law papers that I have read are organized in [this folder.](https://github.com/pfroysdon/reading_rack/tree/main/law)
 
 
@@ -299,7 +299,7 @@ The Law papers that I have read are organized in [this folder.](https://github.c
 
 **Note:** I have ~200 books that I have read in this area.  I will post the photos, links, and reviews soon.  Below is a partial list.
 
-### Technical
+## Technical
 - [The Making of the Atomic Bomb - Rhodes](https://amzn.to/3TCKtqu)  Wonderful book that describes the history that lead to the Manhattan Project, and the personal history of the primary scientists on the project.  I have read this book 3 times! 10/22
 - [Blind Man's Bluff: The Untold Story of American Submarine Espionage - Sontag](https://amzn.to/42xrams) A great story with incredible detail of submarine espionage.  This book encouraged me to read the "Theory of Optimal Search" and "Optimal Search for Moving Targets" listed above.  I have read this book 2 times. 09/22
 - [Legacy of Ashes: The History of the CIA](https://amzn.to/3AE310J) An interesting historical account of the CIA comprised of declassified documents and FOIA papers. 03/23
@@ -307,7 +307,7 @@ The Law papers that I have read are organized in [this folder.](https://github.c
 - [The Psychology of Totalitarianism](https://amzn.to/3BABFsY) This is a great analysis of the human condition and how our psychology influences not just our decisions but to a great degree our overall health.  This is a must read, even if you have no interst in govermments, politics, or mental health. 05/23
 
 
-### Creative, Inspirational, or Informational
+## Creative, Inspirational, or Informational
 - [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](https://amzn.to/3JUKf9N) A great story about creativity and how to overcome your personal obstacles. 05/21
 - [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://amzn.to/3FHN2l5) This is a fascinating story about a very interesting person!  My cousin and several colleagues work for Elon, and based on their personal experience with him, he sounds exactly like a guy I worked for in Northern California for a decade.  It seems to me the *true* risk takers and entrepreneurs are very similar, and the roller coaster of working for them is both exhilarating and exhausting.  I have read this book 2 times. 10/21
 - [The Creature from Jekyll Island: A Second Look at the Federal Reserve](https://amzn.to/40q1zdf)  A very interesting perspective on the world banking system, with several good references. 01/22
@@ -326,19 +326,19 @@ The Law papers that I have read are organized in [this folder.](https://github.c
 - [Shop Drawings for Craftsman Inlays & Hardware: Original Designs by Gustav Stickley](https://amzn.to/3JAlHTh) 05/11
 
 
-### Leadership
+## Leadership
 - [Effective Phrases for Performance Appraisals: A Guide to Successful Evaluations](https://amzn.to/40noA0k) Something I use to help write better performance appraisals. 08/22
 - [Extreme Ownership: How U.S. Navy SEALs Lead and Win - Willink](https://amzn.to/3JDNtON) Very powerful book that encouraged me to change how I act and lead others.  Own your decisions, especially your mistakes!  Don't blame anyone else, ever! 06/20
 - [Turn the Ship Around!: A True Story of Turning Followers into Leaders - Marquet](https://amzn.to/3n5y0PL) A great book about leadership and how to encourage your team to be leaders.  I have read this book 2 times. 06/20
 
 
-### Health
+## Health
 - [The Blood Sugar Solution 10-Day Detox Diet - Hyman](https://amzn.to/407Rh1w)  This book changed my life and my perspective on healthy eating. Chronic illness is gone, I have lost weight and inches around my waste, and best of all, I have better mental clarity to read and retain great books like those on this list!  I reference this book in my book ["How to do Research, Remotely"](https://www.roysdonfibonaccipress.com/shop/p/how-to-do-research-remotely) 06/22
 - [Food: What the Heck Should I Cook? - Hyman](https://amzn.to/3LJlu2Q)  I purchased this book because of the 10-day detox, and I really like this book. 06/22
 - [Food: What the Heck Should I Eat? - Hyman](https://amzn.to/3yWnUDr) I purchased this book because of the 10-day detox, and I really like this book. 06/22
 
 
-### Poetry and Fiction
+## Poetry and Fiction
 - [Twelve Plays by Shakespeare](https://amzn.to/3LGnmZW) 11/14
 - [The Chronicles of Narnia Set](https://amzn.to/3yTlLbM) 12/14
 - [Six by Lewis box set: The Abolition of Man, The Great Divorce, Mere Christianity, Miracles, The Problem of Pain, The Screwtape Letters](https://amzn.to/3JVonMA) 02/10
