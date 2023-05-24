@@ -12,7 +12,7 @@ author_profile: true
 </p>
 
 **NOTE:**  
-This is a repository for the books and papers I have read in the last 25 years of my career.  The items that I have completed have a date (for my reference) and a summary or comment, while the others are items I have recently purchased and next on my list to read.  Most of the books were purchased on-line, so I have provided links for anyone interested in purchasing a copy.  The technical papers I have either provided links or the .pdf (or both).
+This page is for the books and papers I have read.  For each item I have included the date and a summary or comment.  Most of the books were purchased on-line, so I have provided links for anyone interested in purchasing a copy.  The technical papers I have either provided links or the .pdf (or both).
 
 
 
