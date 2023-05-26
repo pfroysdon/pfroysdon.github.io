@@ -1,6 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Books"
+#    url: /books/
+    url: https://www.roysdonfibonaccipress.com/
+
+  - title: "Technical Papers"
     url: /publications/
 #    url: https://github.com/pfroysdon/publications
 
