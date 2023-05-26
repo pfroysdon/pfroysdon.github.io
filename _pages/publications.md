@@ -7,7 +7,7 @@ author_profile: true
 
 
 -----------------------------------------------------------------------------------
-# ML Books
+# Book Resources
 <p align="center">
 	<img width="600" img src="/images/books.jpg">
 </p>
@@ -34,7 +34,7 @@ For example *Algebra* has a list of commonly used algebra equations that most fo
 
 
 -----------------------------------------------------------------------------------
-# Publications	
+# Technical Papers	
 <p align="center">
 	<img width="250" img src="/images/pub.png">
 </p>
