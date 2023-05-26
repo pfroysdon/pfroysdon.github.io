@@ -15,7 +15,7 @@ I focus on clear declaration of variables and documentation of equations/algorit
 	<img width="600" img src="/images/books.jpg">
 </p>
 
-[This folder](https://github.com/pfroysdon/publications/tree/main/Books) contains the code and a **free chapter preview ** for each of my [books](https://www.roysdonfibonaccipress.com/), including:
+[This folder](https://github.com/pfroysdon/publications/tree/main/Books) contains the code and a **free chapter preview** for each of my [books](https://www.roysdonfibonaccipress.com/), including:
 - How to do Research, Remotely!
 - How to do Research: a Guide for Students & Practitioners.
 - Machine Learning: a Conceptual Approach.
