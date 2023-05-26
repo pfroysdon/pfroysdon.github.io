@@ -6,19 +6,23 @@ author_profile: true
 ---
 
 
+I focus on clear declaration of variables and documentation of equations/algorithms, e.g., full derivations and proofs, not found elsewhere in the literature.
+
+
 -----------------------------------------------------------------------------------
 # Book Resources
 <p align="center">
 	<img width="600" img src="/images/books.jpg">
 </p>
 
-[This folder](https://github.com/pfroysdon/publications/tree/main/Books) contains the code and a **free preview chapter** of my [machine learning and math textbooks](https://www.roysdonfibonaccipress.com/), including:
+[This folder](https://github.com/pfroysdon/publications/tree/main/Books) contains the code and a **free chapter preview ** for each of my [books](https://www.roysdonfibonaccipress.com/), including:
 - How to do Research, Remotely!
-- Machine Learning: a Conceptual Approach
-- Math Refresher for Engineers and Scientists
-- Math Handbook for Engineers and Scientists
-- Optimal Nonlinear Bayesian Estimation and Sensor Fusion
-- Neural Networks - A Monograph
+- How to do Research: a Guide for Students & Practitioners.
+- Machine Learning: a Conceptual Approach.
+- Math Refresher for Engineers and Scientists.
+- Math Handbook for Engineers and Scientists.
+- Optimal Nonlinear Bayesian Estimation and Sensor Fusion.
+- Neural Networks - A Monograph.
 
 
 
