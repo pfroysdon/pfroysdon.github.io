@@ -20,8 +20,8 @@ This page is for the books and papers I have read.  For each item I have include
 -----------------------------------------------------------------------------------
 # Most Recent Reads
 
-- [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](https://amzn.to/3JUKf9N) A great story about creativity and how to overcome your personal obstacles. 05/23
-- [The Psychology of Totalitarianism](https://amzn.to/3BABFsY) This is a great analysis of the human condition and how our psychology influences not just our decisions but to a great degree our overall health.  This is a must read, even if you have no interst in govermments, politics, or mental health. 05/23
+- [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](https://amzn.to/3JUKf9N) The first time I read this book I thought it was a great story about creativity and how to overcome your personal obstacles. The second reading (3 years later), I find that this book is much more about leadership, personnel management, and caring for your team.  This is truly a great book! 05/23
+- [The Psychology of Totalitarianism](https://amzn.to/3BABFsY) This is a great analysis of the human condition and how our psychology influences not just our decisions but to a great degree our overall health.  This is a must read, even if you have no interest in governments, politics, or mental health. 05/23
 - [Dark Sun: The Making of the Hydrogen Bomb](https://amzn.to/428GXHb) Another fantastic book from Richard Rhodes, and a follow-on to his [prior book](https://amzn.to/3TCKtqu) with intriguing stories regarding the concerns of the physicists that worked on the hydrogen (super) bomb. 04/23
 - [Legacy of Ashes: The History of the CIA](https://amzn.to/3AE310J) An interesting historical account of the CIA comprised of declassified and FOIA documents. 03/23
 - [The Making of the Atomic Bomb - Rhodes](https://amzn.to/3TCKtqu)  Wonderful book that describes the history that lead to the Manhattan Project, and the personal history of the primary scientists on the project.  I have read this book 3 times! 02/23
