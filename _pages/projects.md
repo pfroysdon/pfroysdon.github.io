@@ -98,16 +98,16 @@ This repo is a collection of tools from my **Ph.D. research and publications**:
 - [**Real-time Kinematic (RTK) GNSS**](https://github.com/pfroysdon/projects/blob/main/navigation/rtk) is a complete implementation of an Real-time Kinematic (RTK) GNSS toolbox that leverages multiple GNSS constellations and solves L1/L2 integer ambiguity for centimeter-level ground truth. 
 
 
-## Data Parsers
-- [**Data Parser CRT**](https://github.com/pfroysdon/projects/blob/main/navigation/parser_crt) parses the binary messages generated from real-time CRT navigation system.
-- [**Data Parser NovAtel**](https://github.com/pfroysdon/projects/blob/main/navigation/parser_novatel) parses the binary messages generated from a real-time NovAtel GPS system.
-- [**Data Parser uBlox**](https://github.com/pfroysdon/projects/blob/main/navigation/parser_ublox) parses the binary messages generated from a real-time uBlox GPS system.
-
 ## Real-time Software
-- [**CRT LSS Nav (Software & GUI)**](https://github.com/pfroysdon/projects/blob/main/navigation/crt_nav) is a complete GPS-aided INS nav that implements a *state-of-the-art full-nonlinear optimal Bayesian navigation system*. This system is highly flexible with selectable states (GPS loosely-coupled, GPS tightly-coupled, GPS single-differencing, GPS double-differencing, baro-aiding), selectable initialization modes, selectable mechanization (NED, wander-azimuthm, ECEF, ECI), and IMU errros (bias, scale factor, quantiization)
+- [**CRT-LSS Nav (Software & GUI)**](https://github.com/pfroysdon/projects/blob/main/navigation/crt_nav) is a complete GPS-aided INS nav that implements a *state-of-the-art full-nonlinear optimal Bayesian navigation system*. This system is highly flexible with selectable states (GPS loosely-coupled, GPS tightly-coupled, GPS single-differencing, GPS double-differencing, baro-aiding), selectable initialization modes, selectable mechanization (NED, wander-azimuthm, ECEF, ECI), and IMU errros (bias, scale factor, quantiization)
 - [**Data Acquisition System (Software & GUI)**](https://github.com/pfroysdon/projects/blob/main/navigation/daq) is a complete implementation of data acquisition system with GPS, IMU, Mag, and 20 A2D channels.
 - [**RTK (Software & GUI)**](https://github.com/pfroysdon/projects/blob/main/navigation/rtk) is a complete implementation of a real-time kinematic GPS positioning system using both a base station and rover for 1 cm level positioning.
 
+
+## Data Parsers
+- [**Data Parser CRT-LSS**](https://github.com/pfroysdon/projects/blob/main/navigation/parser_crt) parses the binary messages generated from real-time CRT navigation system.
+- [**Data Parser NovAtel**](https://github.com/pfroysdon/projects/blob/main/navigation/parser_novatel) parses the binary messages generated from a real-time NovAtel GPS system.
+- [**Data Parser uBlox**](https://github.com/pfroysdon/projects/blob/main/navigation/parser_ublox) parses the binary messages generated from a real-time uBlox GPS system.
 
 
 -----------------------------------------------------------------------------------
