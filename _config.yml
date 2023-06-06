@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Dr. Paul F. Roysdon"
   avatar           : "IMG_0718.JPG"
-  bio              : "Vice President, AI/ML Chief Scientist, and Technical Fellow at Leidos.  Applied Mathematician and Engineer working in novel applications of AI and Machine Learning."
+  bio              : "Vice President, AI/ML Chief Scientist, and Technical Fellow at a Fortune 500 company.  An applied mathematician and engineer working in novel applications of AI and Machine Learning."
   location         : "Texas"
-  employer         : "Leidos"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=DITK574AAAAJ&hl=en"
   email            : "roysdon@protonmail.com"
