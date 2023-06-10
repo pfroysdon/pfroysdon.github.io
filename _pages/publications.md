@@ -27,12 +27,12 @@ I focus on clear declaration of variables and documentation of equations/algorit
 
 
 -----------------------------------------------------------------------------------
-# Math Notes
+# Technical Notes
 <p align="center">
 	<img width="250" img src="/images/LS.png">
 </p>
 
-[This folder](https://github.com/pfroysdon/publications/tree/main/Math_Notes) is a collection of math reference notes on various subjects in Machine Learning.
+[This folder](https://github.com/pfroysdon/publications/tree/main/Tech_Notes) is a collection of technical reference notes on various subjects, e.g., Navigation, Math, Machine Learning, etc.
 For example *Algebra* has a list of commonly used algebra equations that most folks learned in high school (and likely forgot), with a section of common algebra mistakes (so that you don't repeat the mistakes).
 
 
