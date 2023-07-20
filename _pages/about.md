@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Personal motto: "Life is a choice, live your potential!".  While many people are productive, Dr. Roysdon constantly optimizes his time and tasks to be **ultra productive**.
+Personal motto: "Life is a choice, live your potential!".  While many people are productive, Dr. Roysdon always seeks to be **ultra productive** by constantly optimizing his time and tasks. Carpe Diem!
 
 For more than 25 years, Dr. Roysdon has worked in engineering and applied mathematics, solving real-world problems.  His career spans academia, private industry and federal government service.  Dr. Roysdon presently leads a cutting-edge artificial intelligence (AI) and machine learning (ML) research team at a Fortune 500 company where he is a Vice President, AI/ML Chief Scientist, Technical Fellow, and Master-level Solution Architect.
 
