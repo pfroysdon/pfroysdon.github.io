@@ -91,6 +91,8 @@ This page is for the books and papers I have read.  For each item I have include
 - [Mathematical Methods in the Physical Sciences - Boas](https://amzn.to/3n9FJMN)  This is another book I used while studying for aerospace engineering graduate school entrance exams.  This was a great review and highly recommended.
 - [Proofs from THE BOOK](https://amzn.to/4042Dn7) Mathematician Erdos, though a atheist, believed that if God had a book of the purest of math proofs, they would be assembled into "the Book".  The highest compliment he could pay to a colleague’s work was to say, "That’s straight from The Book." This book is an ensemble of proofs that many mathematicians believe might be worthy of "the Book." 01/23 
 - [A History of Mathematical Notations](https://amzn.to/4042Dn7) this is a complete history of mathematical notation written by Professor Florian Cajori in 1923.  This is a fantastic book that I have only read chapters of.  Originally published as 2 volumes, to present day (100 years later), it is still the most comprehensive treatment of the origins of mathematical notation. 01/23
+- [How to Lie with Statistics](https://amzn.to/3OpWiz2) This book is a must read for everyone, just to understand how statistics are used to manipulate any narrative.  The ideas in book are both comical and concerning. 07/23
+- [Damned Lies and Statistics: Untangling Numbers from the Media, Politicians, and Activists](https://amzn.to/3O2jgLu) Like the previous book, this one is a must read for everyone, and the ideas are both comical and concerning. In fact, the author references the prior book as a good starting point.  The first 3 pages alone should captivate and concern any reader.  In many places I checked the math, I even wrote Matlab simulations to verify the results, and alarmingly the author is correct. For example "the number of child gun deaths have doubled since 1950" the original quote, versus the often (mis)quoted by the media "the number of gun child deaths have doubled each year since 1950".  Given the second quote, here is the math: define deaths(i=1950)=1, for i=1951:1995, let deaths(i) = deaths(i-1)x2, then deaths(i=1995)= 3.5 e+13. That is 3.5 trillion child deaths in the year 1995 alone (not cumulative since 1950, read the quote)!  Do you see how a mis-quote is not only misleading but simply impossible?! 07/23
 
 Dover books: these are re-prints of great books that I read during my PhD studies.
 - [Linear Algebra - Shilov](https://amzn.to/42mXqbI)
@@ -141,6 +143,20 @@ Great review books. **If you want to learn a subject, skip the other books and j
 - [Schaum's Outline of Feedback and Control Systems](https://amzn.to/40pH3tf)
 - [Schaum's Outline of Partial Differential Equations](https://amzn.to/3nc264f) 02/09
 - [Schaum's Outline of Advanced Calculus](https://amzn.to/42w1whN) 02/09
+
+
+## Cryptanalysis
+
+- [Cryptanalysis: A Study of Ciphers and Their Solution](https://amzn.to/4532XVC) traditional methods for enciphering and deciphering cryptograms.
+- [Algebraic Cryptanalysis](https://amzn.to/3OyJxm8)  This book truely delivers and "bridges the gap between a course in cryptography, and being able to read the cryptanalytic literature."
+- [Translucent Databases: Confusion, Misdirection, Randomness, Sharing, Authentication And Steganography To Defend Privacy](https://amzn.to/44IUZ4b) an interesting approach to build databases that protect the user's information.
+- [Codes, Ciphers, Steganography & Secret Messages](https://amzn.to/3DtuT9p) a complete introduction to codes, ciphers and secret messages with many examples of each..
+- [Lattice Theory: Foundation](https://amzn.to/44F2skP) provides a solid foundation on distributivity, congruences, constructions, modularity and semimodularity, varieties, and free products.
+- [Understanding Cryptography: A Textbook for Students and Practitioners](https://amzn.to/3OxeI18) this is a great book for undergraduate students or practitioners on the fundamentals of stream ciphers, the Data Encryption Standard (DES) and 3DES, the Advanced Encryption Standard (AES), block ciphers, the RSA cryptosystem, public-key cryptosystems based on the discrete logarithm problem, elliptic-curve cryptography (ECC), digital signatures, hash functions, Message Authentication Codes (MACs), and methods for key establishment, including certificates and public-key infrastructure (PKI).
+-[Sphere Packings, Lattices and Groups](https://amzn.to/3QhEeZl) translated from German, this is a deeply theoretical book on things like the most efficient way to pack a large number of equal spheres in n-dimensional Euclidean space.  It also gives applications to number theory, coding theory, group theory, analogue-to-digital conversion and data compression, n-dimensional crystallography, dual theory and superstring theory.
+- [Applied Cryptanalysis: Breaking Ciphers in the Real World](https://amzn.to/3OhxY1k) each chapter is written to be self-contained, so a practitioner interested in RSA timing attacks can read that one chapter and gain the needed information.  I am presently writing a book in machine learning with a very similar approach to the chapters that I am writing.
+- [Steganography Techniques for Digital Images](https://amzn.to/3rP9aWU) Steg' is not new, but this book provides a new and efficient Steganographic system, called Characteristic Region-Based Image Steganography (CR-BIS) that combines both the robustness of the Speeded-Up Robust Features technique (SURF) and Discrete Wavelet Transform (DWT).
+- [History of Cryptography and Cryptanalysis: Codes, Ciphers, and Their Algorithms](https://amzn.to/44KLKR4)  I really like history books on technical topics, e.g., [A History of Mathematical Notations](https://amzn.to/4042Dn7).  This book covers the  monoalphabetic cipher of antiquity, to cipher machines used throughout World War I and II, to modern criminal cyber-attacks and cyber-warfare.
 
 
 ## Machine Learning & Deep Learning
@@ -266,6 +282,8 @@ Most of the ML literature I have read is contained in technical papers, which I 
 - [Nonlinear Control Systems: Analysis and Design - Marquez](https://amzn.to/3yUsP87) I used this during my PhD studies 01/14
 - [Global Positioning Systems, Inertial Navigation, and Integration - Grewal](https://amzn.to/3yXw7HC) **I know the author personally** 07/10
 - [Kalman Filtering : Theory and Practice Using MATLAB](https://amzn.to/40rxrOM) **I know the author personally** 07/10
+- [Convex Optimization - Boyd](https://amzn.to/3Kf0lfe) I used this book throughout grad school and continue to use it in my research.  This is the "bible" of convex optimization.  You should also look-up the software, CVX, that was written to accompany this book (writting mostly one of Boyd's grad students).  06/14
+
 
 
 ## Watchmaking
