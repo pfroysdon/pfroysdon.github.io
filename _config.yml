@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Paul F. Roysdon"
 title_separator          : "-"
-name                     : &name "Paul Roysdon"
-description              : &description "Vice President, AI/ML Chief Scientist, and Technical Fellow at Leidos."
+name                     : &name "Paul F. Roysdon"
+description              : &description "Applied mathematician and engineer."
 url                      : https://pfroysdon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://pfroysdon.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Paul F. Roysdon"
   avatar           : "IMG_0718.JPG"
-  bio              : "Vice President, AI/ML Chief Scientist, and Technical Fellow at a Fortune 500 company.  An applied mathematician and engineer working in novel applications of AI and Machine Learning."
+  bio              : "An applied mathematician and engineer working in novel research at the confluence of Cyber and AI."
   location         : "Texas"
   employer         : 
   pubmed           : 
