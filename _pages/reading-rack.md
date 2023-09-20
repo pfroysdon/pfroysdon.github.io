@@ -22,41 +22,41 @@ This page is for the books and papers I have read.  For each item I have include
 
 The following were read in-depth during the Aspen Institute Executive Leadership Seminar 09/2023.  This 7-day seminar was the best experience of my professional career.
 
-## Human Nature
+### Human Nature
 - Aristotle, "Nicomachean Ethics"
 - Thomas Hobbes, "Leviathan"
 - Mencius, "Human Nature"
 - Nel Noddings, "Starting at Home"
 
-## Liberty and Rights
+### Liberty and Rights
 - Aristotle, "Politics", Book I, Chapters 1-7
 - Jean-Jacques Rousseau, "The Social Contract"
 - Declaration of Independence
 - Ayn Rand, "What is Capitalism?"
 
-## Tensions: Law and Conscience
+### Tensions: Law and Conscience
 - Herman Melville, "Billy Budd"
 
-## Efficiency and Prosperity
+### Efficiency and Prosperity
 - Plato, "The Republic", Book II
 - Ibn Khaldûn, "The Muqaddimah: An Introduction to History"
 - Amartya Sen, "Development as Freedom"
 - Simón Bolívar, "The Angostura Address"
 - Wisława Szymborska, "Nothing's a Gift"
 
-## Equality and Dignity
+### Equality and Dignity
 - Karl Marx and Friedrich Engels, "The Communist Manifesto"
 - Arthur M. Okun, "Equality and Efficiency: The Big Tradeoff"
 - Simone de Beauvoir, "The Second Sex"
 - Martin Luther King, Jr., "Letter from Birmingham Jail"
 
-## Individual and Community
+### Individual and Community
 - Alexis de Tocqueville, "On Democracy in America"
 - Bell Hooks, "Kentucky Is My Fate," selections
 - Richard Rodriguez, "Brown: The Last Discovery of America"
 - Walter Van Tilburg Clark, "The Portable Phonograph”
 
-## Leadership
+### Leadership
 - Niccolò Machiavelli, "The Prince"
 - Confucius, "Analects"
 - Plato, "The Republic", Book VII
@@ -64,7 +64,7 @@ The following were read in-depth during the Aspen Institute Executive Leadership
 - Maya Angelou, "Surviving"
 - Sophocles, "Antigone"
 
-## Values in Balance
+### Values in Balance
 - Isaiah Berlin, "Two Concepts of Liberty"
 - Ursula Le Guin, "The Ones Who Walk Away from Omelas"
 - James O'Toole, "Four Poles of the Good Society"
