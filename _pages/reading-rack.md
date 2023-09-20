@@ -18,7 +18,67 @@ This page is for the books and papers I have read.  For each item I have include
 
 
 -----------------------------------------------------------------------------------
-# Most Recent Reads
+# Aspen Institute
+
+The following were read in-depth during the Aspen Institute Executive Leadership Seminar 09/2023.  This 7-day seminar was the best experience of my professional career.
+
+## Human Nature
+- Aristotle, "Nicomachean Ethics"
+- Thomas Hobbes, "Leviathan"
+- Mencius, "Human Nature"
+- Nel Noddings, "Starting at Home"
+
+## Liberty and Rights
+- Aristotle, "Politics", Book I, Chapters 1-7
+- Jean-Jacques Rousseau, "The Social Contract"
+- Declaration of Independence
+- Ayn Rand, "What is Capitalism?"
+
+## Tensions: Law and Conscience
+- Herman Melville, "Billy Budd"
+
+## Efficiency and Prosperity
+- Plato, "The Republic", Book II
+- Ibn Khaldûn, "The Muqaddimah: An Introduction to History"
+- Amartya Sen, "Development as Freedom"
+- Simón Bolívar, "The Angostura Address"
+- Wisława Szymborska, "Nothing's a Gift"
+
+## Equality and Dignity
+- Karl Marx and Friedrich Engels, "The Communist Manifesto"
+- Arthur M. Okun, "Equality and Efficiency: The Big Tradeoff"
+- Simone de Beauvoir, "The Second Sex"
+- Martin Luther King, Jr., "Letter from Birmingham Jail"
+
+## Individual and Community
+- Alexis de Tocqueville, "On Democracy in America"
+- Bell Hooks, "Kentucky Is My Fate," selections
+- Richard Rodriguez, "Brown: The Last Discovery of America"
+- Walter Van Tilburg Clark, "The Portable Phonograph”
+
+## Leadership
+- Niccolò Machiavelli, "The Prince"
+- Confucius, "Analects"
+- Plato, "The Republic", Book VII
+- Karl Popper, "The Paradoxes of Sovereignty" 
+- Maya Angelou, "Surviving"
+- Sophocles, "Antigone"
+
+## Values in Balance
+- Isaiah Berlin, "Two Concepts of Liberty"
+- Ursula Le Guin, "The Ones Who Walk Away from Omelas"
+- James O'Toole, "Four Poles of the Good Society"
+
+
+
+-----------------------------------------------------------------------------------
+# Recent Reads
+
+
+- [Woke, Inc. - V. Ramaswamy](https://amzn.to/3PL6tih) This is a controversial book, but a good read. 09/23
+- [San Fransicko - M. Shellenberger](https://amzn.to/3PVJtxv) This is a controversial book with volumes of references and links to data and research. 09/23
+- [The Great Narrative (The Great Reset) -K Schwab](https://amzn.to/3PoplCp) This is a controversial book, with an academic perspective. 08/23
+- [Apocalypse Never - M. Shellenberger](https://amzn.to/3t1FHtc) This is a controversial book with volumes of references and links to data and research. 08/23
 - [How to Lie with Statistics](https://amzn.to/3OpWiz2) This book is a must read for everyone, just to understand how statistics are used to manipulate any narrative.  The ideas in book are both comical and concerning. 07/23
 - [Damned Lies and Statistics: Untangling Numbers from the Media, Politicians, and Activists](https://amzn.to/3O2jgLu) Like the previous book, this one is a must read for everyone, and the ideas are both comical and concerning. In fact, the author references the prior book as a good starting point.  The first 3 pages alone should captivate and concern any reader.  In many places I checked the math, I even wrote Matlab simulations to verify the results, and alarmingly the author is correct. For example "the number of child gun deaths have doubled since 1950" the original quote, versus the often (mis)quoted by the media "the number of gun child deaths have doubled each year since 1950".  Given the second quote, here is the math: define deaths(i=1950)=1, for i=1951:1995, let deaths(i) = deaths(i-1)x2, then deaths(i=1995)= 3.5 e+13. That is 3.5 trillion child deaths in the year 1995 alone (not cumulative since 1950, read the quote)!  Do you see how a mis-quote is not only misleading but simply impossible?! 07/23
 - [The Classic Friedrich Nietzsche Collection](https://amzn.to/3Q8I8Uh)  I am presently working my way thorough this collection. 07/23
@@ -291,6 +351,13 @@ Most of the ML literature I have read is contained in technical papers, which I 
 	<img width="500" img src="/images/IMG_3747.jpg">
 </p>
 
+- [Traité de construction horlogère](https://watchprint.com/en/technical-insights/80-traite-de-construction-horlogere.html) 08/23
+- [Modern Calendar Watches](https://watchprint.com/en/technical-insights/358-modern-calendar-watches.html) 08/23
+- [Le pivotage](https://watchprint.com/en/technical-insights/59-le-pivotage.html)  08/23
+- [Le réglage](https://watchprint.com/en/technical-insights/57-le-reglage.html) 08/23
+- [Watch Adjustment](https://watchprint.com/en/technical-insights/357-watch-adjustment.html) 08/23
+- [A Guide to Complicated Watches](https://amzn.to/3ZsjJLW) 08/23
+- [The Mechanics of Mechanical Watches and Clocks](https://amzn.to/3PIU2nc) 08/23
 - [Watchmaking - George Daniels](https://amzn.to/3na44C9) The best book to get you started in watchmaking. 09/19
 - [The Watchmakers' Staking Tool - K&D Co.](https://amzn.to/3FGFIq7) Ver useful to undersatnd the staking tool and its applications. 12/19
 - [Bench Practices for Watch Repairers - Fried](https://amzn.to/42w2IBF) 12/19
