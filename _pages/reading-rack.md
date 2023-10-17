@@ -12,7 +12,7 @@ author_profile: true
 </p>
 
 **NOTE:**  
-This page is for the books and papers I have read.  For each item I have included the date and a summary or comment.  Most of the books were purchased on-line, so I have provided links for anyone interested in purchasing a copy.  The technical papers I have either provided links or the .pdf (or both).
+This page is for the books and papers I have read.  For each item I have included the date and a summary or comment.  Most of the books were purchased on-line, so I have provided Amazon Associate links for anyone interested in purchasing a copy.  The technical papers I have either provided links or the .pdf (or both).
 
 
 
@@ -445,3 +445,7 @@ The Law papers that I have read are organized in [this folder.](https://github.c
 - [Whitman: Poetry and Prose](https://amzn.to/3yTIjJt) 01/09
 
 
+
+
+
+Note: The Amazon links on this page are "Amazon Associate" links.  As an Amazon Associate, I earn from qualifying purchases.
