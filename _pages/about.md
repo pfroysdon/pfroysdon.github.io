@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-*"In everything, commit yourself to excellence." - P. F. Roysdon*
+*"In everything, commit yourself to excellence and integrity." - P. F. Roysdon*
 
 For more than 25 years, Dr. Roysdon has worked in engineering and applied mathematics, solving real-world problems.  His career spans academia, defense contractor, and federal goverment service.  Dr. Roysdon presently leads a cutting-edge Cyber and Artificial Intelligence (AI) research team at Leidos where he is Vice President, AI Chief Scientist, Technical Fellow, and Master-level Solution Architect.
 
