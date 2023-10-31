@@ -16,4 +16,4 @@ Dr. Roysdon earned a Ph.D. in Electrical Engineering (focus in applied mathemati
 
 Dr. Roysdon has six patents-pending and he has published many peer-reviewed [books](http://www.roysdonfibonaccipress.com/), [scientific articles](https://github.com/pfroysdon/publications/tree/main/Papers), and [technical notes](https://github.com/pfroysdon/publications/tree/main/Tech_Notes).  His [research](https://pfroysdon.github.io/projects/) includes AI, Offensive Cyber, Cryptanalysis, Aircraft Design, and Guidance, Navigation & Control.
 
-His other interests include: [flying](https://youtu.be/8kgQ3hz9YNg) and [watchmaking](https://www.roysdonwatchco.com/).
+His other interests include [flying](https://youtu.be/8kgQ3hz9YNg) and [watchmaking](https://www.roysdonwatchco.com/).

@@ -15,66 +15,10 @@ author_profile: true
 This page is for the books and papers I have read.  For each item I have included the date and a summary or comment.  Most of the books were purchased on-line, so I have provided Amazon Associate links for anyone interested in purchasing a copy.  The technical papers I have either provided links or the .pdf (or both).
 
 
-
-
------------------------------------------------------------------------------------
-# Aspen Institute
-
-The following were read in-depth during the Aspen Institute Executive Leadership Seminar 09/2023.  This 7-day seminar was the best experience of my professional career.
-
-### Human Nature
-- Aristotle, "Nicomachean Ethics"
-- Thomas Hobbes, "Leviathan"
-- Mencius, "Human Nature"
-- Nel Noddings, "Starting at Home"
-
-### Liberty and Rights
-- Aristotle, "Politics", Book I, Chapters 1-7
-- Jean-Jacques Rousseau, "The Social Contract"
-- Declaration of Independence
-- Ayn Rand, "What is Capitalism?"
-
-### Tensions: Law and Conscience
-- Herman Melville, "Billy Budd"
-
-### Efficiency and Prosperity
-- Plato, "The Republic", Book II
-- Ibn Khaldûn, "The Muqaddimah: An Introduction to History"
-- Amartya Sen, "Development as Freedom"
-- Simón Bolívar, "The Angostura Address"
-- Wisława Szymborska, "Nothing's a Gift"
-
-### Equality and Dignity
-- Karl Marx and Friedrich Engels, "The Communist Manifesto"
-- Arthur M. Okun, "Equality and Efficiency: The Big Tradeoff"
-- Simone de Beauvoir, "The Second Sex"
-- Martin Luther King, Jr., "Letter from Birmingham Jail"
-
-### Individual and Community
-- Alexis de Tocqueville, "On Democracy in America"
-- Bell Hooks, "Kentucky Is My Fate," selections
-- Richard Rodriguez, "Brown: The Last Discovery of America"
-- Walter Van Tilburg Clark, "The Portable Phonograph”
-
-### Leadership
-- Niccolò Machiavelli, "The Prince"
-- Confucius, "Analects"
-- Plato, "The Republic", Book VII
-- Karl Popper, "The Paradoxes of Sovereignty" 
-- Maya Angelou, "Surviving"
-- Sophocles, "Antigone"
-
-### Values in Balance
-- Isaiah Berlin, "Two Concepts of Liberty"
-- Ursula Le Guin, "The Ones Who Walk Away from Omelas"
-- James O'Toole, "Four Poles of the Good Society"
-
-
-
 -----------------------------------------------------------------------------------
 # Recent Reads
 
-
+- [Humble Pi](https://amzn.to/40ktk8f) This is a humorous book that tells storys of when a math error causes unexpected results. 10/23
 - [Woke, Inc. - V. Ramaswamy](https://amzn.to/3PL6tih) This is a controversial book, but a good read. 09/23
 - [San Fransicko - M. Shellenberger](https://amzn.to/3PVJtxv) This is a controversial book with volumes of references and links to data and research. 09/23
 - [The Great Narrative (The Great Reset) -K Schwab](https://amzn.to/3PoplCp) This is a controversial book, with an academic perspective. 08/23
@@ -385,6 +329,60 @@ The medical papers that I have read are organized in [this folder.](https://gith
 
 ## Law Journals and Papers
 The Law papers that I have read are organized in [this folder.](https://github.com/pfroysdon/reading_rack/tree/main/law)
+
+
+
+-----------------------------------------------------------------------------------
+# Aspen Institute
+
+The following were read in-depth during the Aspen Institute Executive Leadership Seminar 09/2023.  This 7-day seminar was the best experience of my professional career.
+
+### Human Nature
+- Aristotle, "Nicomachean Ethics"
+- Thomas Hobbes, "Leviathan"
+- Mencius, "Human Nature"
+- Nel Noddings, "Starting at Home"
+
+### Liberty and Rights
+- Aristotle, "Politics", Book I, Chapters 1-7
+- Jean-Jacques Rousseau, "The Social Contract"
+- Declaration of Independence
+- Ayn Rand, "What is Capitalism?"
+
+### Tensions: Law and Conscience
+- Herman Melville, "Billy Budd"
+
+### Efficiency and Prosperity
+- Plato, "The Republic", Book II
+- Ibn Khaldûn, "The Muqaddimah: An Introduction to History"
+- Amartya Sen, "Development as Freedom"
+- Simón Bolívar, "The Angostura Address"
+- Wisława Szymborska, "Nothing's a Gift"
+
+### Equality and Dignity
+- Karl Marx and Friedrich Engels, "The Communist Manifesto"
+- Arthur M. Okun, "Equality and Efficiency: The Big Tradeoff"
+- Simone de Beauvoir, "The Second Sex"
+- Martin Luther King, Jr., "Letter from Birmingham Jail"
+
+### Individual and Community
+- Alexis de Tocqueville, "On Democracy in America"
+- Bell Hooks, "Kentucky Is My Fate," selections
+- Richard Rodriguez, "Brown: The Last Discovery of America"
+- Walter Van Tilburg Clark, "The Portable Phonograph”
+
+### Leadership
+- Niccolò Machiavelli, "The Prince"
+- Confucius, "Analects"
+- Plato, "The Republic", Book VII
+- Karl Popper, "The Paradoxes of Sovereignty" 
+- Maya Angelou, "Surviving"
+- Sophocles, "Antigone"
+
+### Values in Balance
+- Isaiah Berlin, "Two Concepts of Liberty"
+- Ursula Le Guin, "The Ones Who Walk Away from Omelas"
+- James O'Toole, "Four Poles of the Good Society"
 
 
 
