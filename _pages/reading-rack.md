@@ -17,29 +17,13 @@ This page is for the books and papers I have read.  For each item I have include
 
 -----------------------------------------------------------------------------------
 # Recent Reads
-
-- [Humble Pi](https://amzn.to/40ktk8f) This is a humorous book that tells storys of when a math error causes unexpected results. 10/23
-- [Woke, Inc. - V. Ramaswamy](https://amzn.to/3PL6tih) This is a controversial book, but a good read. 09/23
-- [San Fransicko - M. Shellenberger](https://amzn.to/3PVJtxv) This is a controversial book with volumes of references and links to data and research. 09/23
-- [The Great Narrative (The Great Reset) -K Schwab](https://amzn.to/3PoplCp) This is a controversial book, with an academic perspective. 08/23
-- [Apocalypse Never - M. Shellenberger](https://amzn.to/3t1FHtc) This is a controversial book with volumes of references and links to data and research. 08/23
-- [How to Lie with Statistics](https://amzn.to/3OpWiz2) This book is a must read for everyone, just to understand how statistics are used to manipulate any narrative.  The ideas in book are both comical and concerning. 07/23
-- [Damned Lies and Statistics: Untangling Numbers from the Media, Politicians, and Activists](https://amzn.to/3O2jgLu) Like the previous book, this one is a must read for everyone, and the ideas are both comical and concerning. In fact, the author references the prior book as a good starting point.  The first 3 pages alone should captivate and concern any reader.  In many places I checked the math, I even wrote Matlab simulations to verify the results, and alarmingly the author is correct. For example "the number of child gun deaths have doubled since 1950" the original quote, versus the often (mis)quoted by the media "the number of gun child deaths have doubled each year since 1950".  Given the second quote, here is the math: define deaths(i=1950)=1, for i=1951:1995, let deaths(i) = deaths(i-1)x2, then deaths(i=1995)= 3.5 e+13. That is 3.5 trillion child deaths in the year 1995 alone (not cumulative since 1950, read the quote)!  Do you see how a mis-quote is not only misleading but simply impossible?! 07/23
-- [The Classic Friedrich Nietzsche Collection](https://amzn.to/3Q8I8Uh)  I am presently working my way thorough this collection. 07/23
-- [The Grand Inquisitor - Dostoyevsky](https://amzn.to/3Q2Zpyg)  This a provides a thought provoking dialogue about human nature and freedom. 07/23
-- [The Art of War - Sun Tzu](https://amzn.to/3Q8xNYE) This is a rather short read, but provides a narrative of war that has remained consistent for a thousand years. 07/23
-- [Adventures of a Mathematician](https://amzn.to/473tP9Q) This was an interesting perspective after reading [this book](https://amzn.to/3TCKtqu).  This book is both inspiring and sad, and has become one of my favorite autobiographies.  07/23
-- [The Man in the Arena: Selected Writings of Theodore Roosevelt](https://amzn.to/3OrqcTu) This book, and in particular this passage is most inspiring; "It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat." This passage has helped me when my work was criticized, and reminded me that often people who criticize cannot do what I can do.  06/23
-- [Atomic Habits](https://amzn.to/46kDGrg) This is a great book that reaffirms my personal method of achieving goals.  Everyone should read this book!  06/23
-- [Energy](https://amzn.to/3NXvxSF) This is the same author as [this book](https://amzn.to/3TCKtqu) and as usual he provides great detail.  This is a good book, but it took me several chapters to get "into it". 06/23
-- [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](https://amzn.to/3JUKf9N) The first time I read this book I thought it was a great story about creativity and how to overcome your personal obstacles. The second reading (3 years later), I find that this book is much more about leadership, personnel management, and caring for your team.  This is truly a great book! 05/23
-- [The Psychology of Totalitarianism](https://amzn.to/3BABFsY) This is a great analysis of the human condition and how our psychology influences not just our decisions but to a great degree our overall health.  This is a must read, even if you have no interest in governments, politics, or mental health. 05/23
-- [Relativity:The Special and the General Theory](https://amzn.to/46myAe4)  This is a great summary of relativity by Einstein for an audience of non-technical folks. 04/23
-- [Dark Sun: The Making of the Hydrogen Bomb](https://amzn.to/428GXHb) Another fantastic book from Richard Rhodes, and a follow-on to his [prior book](https://amzn.to/3TCKtqu) with intriguing stories regarding the concerns of the physicists that worked on the hydrogen (super) bomb. 04/23
-- [Legacy of Ashes: The History of the CIA](https://amzn.to/3AE310J) An interesting historical account of the CIA comprised of declassified and FOIA documents. 03/23
-- [The Making of the Atomic Bomb - Rhodes](https://amzn.to/3TCKtqu)  Wonderful book that describes the history that lead to the Manhattan Project, and the personal history of the primary scientists on the project.  I have read this book 3 times! 02/23
-
-
+- [Deep Learning: Foundations and Concepts - Bishop](https://amzn.to/3HMYwEI)  This is a followup to his prior book on Pattern Recognition and Classification.  **This is a well-written book, with a good balance of examples and math.** 01/24
+- [Python Data Science Handbook: Essential Tools for Working with Data](https://amzn.to/3OxR6sF)  **Great book.**  I have used this as a primer for teahing and boot camps. 07/19, 12/23
+- [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://amzn.to/3ua94e0) **This is my first choice for data visualization books.  Great book!** 12/23
+- [Interpretable Machine Learning: A Guide For Making Black Box Models Explainable](https://amzn.to/3UtlmJ0) **The best book on interpretable ML!** 12/23
+- [Probabilistic Machine Learning: An Introduction - Murphy](https://amzn.to/49oj56i)  Great book, very dense, but given the length I expected math proofs and derivations. 01/24 
+- [Probabilistic Machine Learning: Advanced Topics - Murphy](https://amzn.to/3HMCWjv)  Great book, very dense, but given the length I expected math proofs and derivations. 01/24 
+- [The Founder's Mentality: How to Overcome the Predictable Crises of Growth](https://amzn.to/4bjA8YZ) I read this for work.  I ahev read a lot of books like it, e.g., Lean Startup, etc.  This book was okay and a rather good reminder of what makes companies great. 01/24
 
 
 -----------------------------------------------------------------------------------
@@ -72,6 +56,7 @@ This page is for the books and papers I have read.  For each item I have include
 - [Lectures on Physics and the Nature of Scientific Knowledge - Erwin Schrödinger](https://amzn.to/3lAjX4j)
 - [Equations of Mathematical Physics](https://amzn.to/3JX7LUF)
 - [The Physical Principles of the Quantum Theory - Werner Heisenberg](https://amzn.to/3JV4kOm)
+- [Relativity:The Special and the General Theory](https://amzn.to/46myAe4)  This is a great summary of relativity by Einstein for an audience of non-technical folks. 04/23
 
 
 ## Math
@@ -97,6 +82,8 @@ This page is for the books and papers I have read.  For each item I have include
 - [A History of Mathematical Notations](https://amzn.to/4042Dn7) this is a complete history of mathematical notation written by Professor Florian Cajori in 1923.  This is a fantastic book that I have only read chapters of.  Originally published as 2 volumes, to present day (100 years later), it is still the most comprehensive treatment of the origins of mathematical notation. 01/23
 - [How to Lie with Statistics](https://amzn.to/3OpWiz2) This book is a must read for everyone, just to understand how statistics are used to manipulate any narrative.  The ideas in book are both comical and concerning. 07/23
 - [Damned Lies and Statistics: Untangling Numbers from the Media, Politicians, and Activists](https://amzn.to/3O2jgLu) Like the previous book, this one is a must read for everyone, and the ideas are both comical and concerning. In fact, the author references the prior book as a good starting point.  The first 3 pages alone should captivate and concern any reader.  In many places I checked the math, I even wrote Matlab simulations to verify the results, and alarmingly the author is correct. For example "the number of child gun deaths have doubled since 1950" the original quote, versus the often (mis)quoted by the media "the number of gun child deaths have doubled each year since 1950".  Given the second quote, here is the math: define deaths(i=1950)=1, for i=1951:1995, let deaths(i) = deaths(i-1)x2, then deaths(i=1995)= 3.5 e+13. That is 3.5 trillion child deaths in the year 1995 alone (not cumulative since 1950, read the quote)!  Do you see how a mis-quote is not only misleading but simply impossible?! 07/23
+- [Theory of Games and Economic Behavior - von Neumann](https://amzn.to/3w3ZR7D) This is a challenging book, and it is hard to imagine that Von Neumann wrote the first 600 pages in just a few days.  **There is an easter egg in section 8.3.1 on set theory!**  Read [this biography](https://amzn.to/3wcsT4H) to find out more. 10/23
+
 
 Dover books: these are re-prints of great books that I read during my PhD studies.
 - [Linear Algebra - Shilov](https://amzn.to/42mXqbI)
@@ -181,6 +168,25 @@ Most of the ML literature I have read is contained in technical papers, which I 
 - [Graph Algorithms in the Language of Linear Algebra - Kepner and Gilbert](https://amzn.to/3JA2qkT)
 - [Deep Learning - Goodfellow](https://amzn.to/3LFSZ5O)  This book reads like a Ph.D. dissertation and includes equation details rarely found in other texts. 01/23
 - [Machine Learning: a Concise Introduction - Knox](https://amzn.to/3Z7JaB1) **I know the author personally** 06/19
+- [Deep Learning: Foundations and Concepts - Bishop](https://amzn.to/3HMYwEI)  This is a followup to his prior book on Pattern Recognition and Classification.  This is a well-written book, with a good balance of examples and math. 01/24
+- [Explainable Artificial Intelligence: An Introduction to Interpretable Machine Learning](https://amzn.to/3uvkd97)  This book is worth the time to read.  It covers many of the most common algorithms in ML, with enough depth to be useful in practice. 11/23
+- [The Metrics Manifesto: Confronting Security with Data](https://amzn.to/486rF8x)  This is a great book with several humorous examples of the necessity of selecting the right data and metrics. 12/23
+- [Inside Deep Learning: Math, Algorithms, Models](https://amzn.to/3Ox8iP7) Incomplete book. 12/23
+- [Python Data Science Handbook: Essential Tools for Working with Data](https://amzn.to/3OxR6sF)  **Great book.**  I have used this as a primer for teahing and boot camps. 07/19
+- [Essential Math for Data Science: Take Control of Your Data with Fundamental Linear Algebra, Probability, and Statistics](https://amzn.to/3UnRwWn) This author does a good job with descriptions of probability theory and Statistics.  Better than most! 12/23
+- [The Data Science Handbook](https://amzn.to/3UtlgkC) This is a good quick reference, though I found it a bit incomplete. 12/23
+- [Machine Learning: An Applied Mathematics Introduction](https://amzn.to/3SJWWcO)  Great math introduction, or review, for ML!
+- [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://amzn.to/3ua94e0) **This is my first choice for data visualization books.  Great book!** 12/23
+- [Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play](https://amzn.to/42v4cNg)  This is a fine tutorial book.  Not my favorite. 12/23
+- [Mathematics for Machine Learning](https://amzn.to/47YeFSt)  Great math descriptions of algorithms, but not enough depth.  I was hoping for more derivations and proofs. 12/23
+- [Better Data Visualizations: A Guide for Scholars, Researchers, and Wonks](https://amzn.to/49h8Pwm)  Honestly not a great book.  [This book](https://amzn.to/3ua94e0) is much better. 12/23 
+- [Linear Algebra and Optimization for Machine Learning: A Textbook](https://amzn.to/3HLliN7) This book is visually dense on each page and consequently it is difficult to read. The author describes each topic well, and you can defnintely see his personality coming through the pages. 12/23
+- [Interpretable Machine Learning: A Guide For Making Black Box Models Explainable](https://amzn.to/3UtlmJ0) **The best book on interpretable ML!** 12/23
+- [Interpretable AI: Building explainable machine learning systems](https://amzn.to/49qcxE9) This book is okay.  [This book]((https://amzn.to/3UtlmJ0)) is much better. 12/23 
+- [Deep Learning from Scratch: Building with Python from First Principles](https://amzn.to/3HM7NwJ) Not a great book.  It is definitely not "from scratch" nor is it "first principles".  It is building ML models with Python and using existing frameworks like PyTorch or TensorFlow. 12/23
+- [Ensemble Methods for Machine Learning](https://amzn.to/48jskUp)  This is a great book that covers the most common ensemble methods in great detail. 11/23
+- [Graph Algorithms in the Language of Linear Algebra](https://amzn.to/4boTlIA) Finally a great book on graph theory in the natural language or linear algebra. 11/23
+- [Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures](https://amzn.to/49lD711) Honestly not a great book.  [This book](https://amzn.to/3ua94e0) is much better. 12/23
 
 
 ## Cyber & Software
@@ -222,8 +228,8 @@ Most of the ML literature I have read is contained in technical papers, which I 
 	<img width="500" img src="/images/IMG_3746.jpg">
 </p>
 
-- [Aircraft Design: A Conceptual Approach, Fourth Edition](https://amzn.to/3yVTwJp)  This book helped me design several military aircraft. **This is absolutely the best book for aircraft design, and I know the author personally**  
-- [Aircraft Design: A Conceptual Approach, Sixth Edition](https://amzn.to/3z3821T)  This updated edition includes electric aircraf design. **I know the author personally**
+- [Aircraft Design: A Conceptual Approach, Fourth Edition](https://amzn.to/3yVTwJp)  **I served on the AIAA Air Craft Design Technical Committee with this author for 5 years.** This book helped me design several military aircraft. **This is absolutely the best book for aircraft design, and I know the author personally**  
+- [Aircraft Design: A Conceptual Approach, Sixth Edition](https://amzn.to/3z3821T)  **I served on the AIAA Air Craft Design Technical Committee with this author for 5 years.** This updated edition includes electric aircraf design. **I know the author personally**
 - [Lessons Learned: A Guide to Improved Aircraft Design](https://amzn.to/3yUrZIv) **I know the author personally**
 - [Introduction to the Design of Fixed-Wing Micro Air Vehicles](https://amzn.to/3luYmdt) THis book was purcahsed for a small and successful IRAD project. 06/14
 - [Dynamics of Flight - Etkin & Reid](https://amzn.to/3LHmp3D) This book helped me design several military aircraft. Excellent book for understanding stability variables and derivatives. 06/07
@@ -255,6 +261,8 @@ Most of the ML literature I have read is contained in technical papers, which I 
 - [Gas Dynamics, Volume 1 - Zucrow & Hoffman](https://amzn.to/3TAg9fR) I used this text while in grad school, great book! 02/09
 - [Flight Testing of Fixed-Wing Aircraft - Kimberlin](https://amzn.to/3ncYdMx) Great book for flight test planning and analysis 01/09
 - [Aircraft Control and Simulation - Stevens & Lewis](https://amzn.to/3JHLadA) Great book for 6DOF simulation design. 10/10
+- [Fundamentals of Aircraft and Airship Design: Vol 1 - Nicolai](https://amzn.to/3urwhbq) **I served on the AIAA Air Craft Design Technical Committee with this author for 15 years, and he helped me on a Navy aircraft design many years ago.**  This was his seminal work before his death.  This is a great book. 12/23
+- [Fundamentals of Aircraft and Airship Design: Vol 2 - Nicolai](https://amzn.to/4bovFUC) **I served on the AIAA Air Craft Design Technical Committee with this author for 15 years, and he helped me on a Navy aircraft design many years ago.**  This was his seminal work before his death.  This is a great book. 12/23
 
 
 ## Electrical Engineering, Navigation Theory, State Estimation, Signal Processing
@@ -392,15 +400,24 @@ The following were read in-depth during the Aspen Institute Executive Leadership
 **Note:** I have ~200 books that I have read in this area.  I will post the photos, links, and reviews soon.  Below is a partial list.
 
 ## Technical
-- [The Making of the Atomic Bomb - Rhodes](https://amzn.to/3TCKtqu)  Wonderful book that describes the history that lead to the Manhattan Project, and the personal history of the primary scientists on the project.  I have read this book 3 times! 10/22
+- [The Making of the Atomic Bomb - Rhodes](https://amzn.to/3TCKtqu)  Wonderful book that describes the history that lead to the Manhattan Project, and the personal history of the primary scientists on the project.  I have read this book 3 times! 10/22. 02/23
 - [Blind Man's Bluff: The Untold Story of American Submarine Espionage - Sontag](https://amzn.to/42xrams) A great story with incredible detail of submarine espionage.  This book encouraged me to read the "Theory of Optimal Search" and "Optimal Search for Moving Targets" listed above.  I have read this book 2 times. 09/22
-- [Legacy of Ashes: The History of the CIA](https://amzn.to/3AE310J) An interesting historical account of the CIA comprised of declassified documents and FOIA papers. 03/23
+- [Adventures of a Mathematician](https://amzn.to/473tP9Q) This was an interesting perspective after reading [this book](https://amzn.to/3TCKtqu).  This book is both inspiring and sad, and has become one of my favorite autobiographies.  07/23
+- [The Man in the Arena: Selected Writings of Theodore Roosevelt](https://amzn.to/3OrqcTu) This book, and in particular this passage is most inspiring; "It is not the critic who counts; not the man who points out how the strong man stumbles, or where the doer of deeds could have done them better. The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again, because there is no effort without error and shortcoming; but who does actually strive to do the deeds; who knows great enthusiasms, the great devotions; who spends himself in a worthy cause; who at the best knows in the end the triumph of high achievement, and who at the worst, if he fails, at least fails while daring greatly, so that his place shall never be with those cold and timid souls who neither know victory nor defeat." This passage has helped me when my work was criticized, and reminded me that often people who criticize cannot do what I can do.  06/23
+- [Energy](https://amzn.to/3NXvxSF) This is the same author as [this book](https://amzn.to/3TCKtqu) and as usual he provides great detail.  This is a good book, but it took me several chapters to get "into it". 06/23
+- [The Psychology of Totalitarianism](https://amzn.to/3BABFsY) This is a great analysis of the human condition and how our psychology influences not just our decisions but to a great degree our overall health.  This is a must read, even if you have no interest in governments, politics, or mental health. 05/23
 - [Dark Sun: The Making of the Hydrogen Bomb](https://amzn.to/428GXHb) Another fantastic book from Richard Rhodes, and a follow-on to his [prior book](https://amzn.to/3TCKtqu) with intriguing stories regarding the concerns of the physicists that worked on the hydrogen (super) bomb. 04/23
-- [The Psychology of Totalitarianism](https://amzn.to/3BABFsY) This is a great analysis of the human condition and how our psychology influences not just our decisions but to a great degree our overall health.  This is a must read, even if you have no interst in govermments, politics, or mental health. 05/23
+- [Legacy of Ashes: The History of the CIA](https://amzn.to/3AE310J) An interesting historical account of the CIA comprised of declassified and FOIA documents. 03/23
+- [The Man from the Future: The Visionary Life of John von Neumann](https://amzn.to/3wcsT4H) **I loved this book!  Great bio on Von Neumann.** 10/23
+- [Land of Hope: An Invitation to the Great American Story](https://amzn.to/4823NCX) This is a great, classical, view of American history.  This should be taught in more schools.
+- [Apocalypse Never - M. Shellenberger](https://amzn.to/3t1FHtc) This is a controversial book with volumes of references and links to data and research. 08/23
+- [How to Lie with Statistics](https://amzn.to/3OpWiz2) This book is a must read for everyone, just to understand how statistics are used to manipulate any narrative.  The ideas in book are both comical and concerning. 07/23
+- [Damned Lies and Statistics: Untangling Numbers from the Media, Politicians, and Activists](https://amzn.to/3O2jgLu) Like the previous book, this one is a must read for everyone, and the ideas are both comical and concerning. In fact, the author references the prior book as a good starting point.  The first 3 pages alone should captivate and concern any reader.  In many places I checked the math, I even wrote Matlab simulations to verify the results, and alarmingly the author is correct. For example "the number of child gun deaths have doubled since 1950" the original quote, versus the often (mis)quoted by the media "the number of gun child deaths have doubled each year since 1950".  Given the second quote, here is the math: define deaths(i=1950)=1, for i=1951:1995, let deaths(i) = deaths(i-1)x2, then deaths(i=1995)= 3.5 e+13. That is 3.5 trillion child deaths in the year 1995 alone (not cumulative since 1950, read the quote)!  Do you see how a mis-quote is not only misleading but simply impossible?! 07/23
 
 
 ## Creative, Inspirational, or Informational
-- [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](https://amzn.to/3JUKf9N) A great story about creativity and how to overcome your personal obstacles. 05/21
+- [Atomic Habits](https://amzn.to/46kDGrg) This is a great book that reaffirms my personal method of achieving goals.  Everyone should read this book!  06/23
+- [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](https://amzn.to/3JUKf9N) A great story about creativity and how to overcome your personal obstacles. 05/21, 05/23
 - [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://amzn.to/3FHN2l5) This is a fascinating story about a very interesting person!  My cousin and several colleagues work for Elon, and based on their personal experience with him, he sounds exactly like a guy I worked for in Northern California for a decade.  It seems to me the *true* risk takers and entrepreneurs are very similar, and the roller coaster of working for them is both exhilarating and exhausting.  I have read this book 2 times. 10/21
 - [The Creature from Jekyll Island: A Second Look at the Federal Reserve](https://amzn.to/40q1zdf)  A very interesting perspective on the world banking system, with several good references. 01/22
 - [Failure Is Not an Option: Mission Control from Mercury to Apollo 13 and Beyond - Kranz](https://amzn.to/407pzSv) A fantastic book that describes the origins of mission control in an era when computers were just emerging and communication was a logistical challenge.  I have read this book 2 times. 11/22
@@ -416,6 +433,15 @@ The following were read in-depth during the Aspen Institute Executive Leadership
 - [Shop Drawings for Craftsman Furniture: 27 Stickley Designs for Every Room in the Home](https://amzn.to/42zpSrc) 05/11
 - [Shop Drawings for Craftsman Interiors: Cabinets, Moldings & Built-Ins for Every Room in the Home](https://amzn.to/3ncYEGA) 05/11
 - [Shop Drawings for Craftsman Inlays & Hardware: Original Designs by Gustav Stickley](https://amzn.to/3JAlHTh) 05/11
+- [The Classic Friedrich Nietzsche Collection](https://amzn.to/3Q8I8Uh)  I am presently working my way thorough this collection. 07/23
+- [The Grand Inquisitor - Dostoyevsky](https://amzn.to/3Q2Zpyg)  This a provides a thought provoking dialogue about human nature and freedom. 07/23
+- [The Art of War - Sun Tzu](https://amzn.to/3Q8xNYE) This is a rather short read, but provides a narrative of war that has remained consistent for a thousand years. 07/23
+- [Tribe On Homecoming & Belonging](https://amzn.to/4889LSK)  This is a book I wish I had read shortly after my deployments.  It is a great read and puts "life at home" in perspective. 11/23
+- [Ace the Data Science Interview: 201 Real Interview Questions Asked By FAANG, Tech Startups, & Wall Street](https://amzn.to/3ul7nKy) This book gave me ideas on how to interview candidates for my team.  It is a good book, but I have seen other reviews that have taken this book a little too far using it as the only way they are going to get a job in ML.  My advice: learn how to be awesome at ML, learn how to communicate your ideas by presenting in school or at conferences, and practice interviews with your friends. Finally, be honest on your resume and candid during the interview. If you master these, I would most likely hire you. 11/23
+- [Humble Pi](https://amzn.to/40ktk8f) This is a humorous book that tells storys of when a math error causes unexpected results. 10/23
+- [Woke, Inc. - V. Ramaswamy](https://amzn.to/3PL6tih) This is a controversial book, but a good read. 09/23
+- [San Fransicko - M. Shellenberger](https://amzn.to/3PVJtxv) This is a controversial book with volumes of references and links to data and research. 09/23
+- [The Great Narrative (The Great Reset) -K Schwab](https://amzn.to/3PoplCp) This is a controversial book, with an academic perspective. 08/23
 
 
 ## Leadership

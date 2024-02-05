@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-This is a collection of projects from my **MS research, PhD research, and hobby interests**.  
+This is a collection of projects from my **PhD research, MS research, and personal interests**.  
 
 
 Note: **Most projects require a password to access the source code**, while others are free and open to the public.  This page is a **work in progress,** some projects are better documented than others.  I will clean this up as I have time to do so.
@@ -15,13 +15,13 @@ Note: **Most projects require a password to access the source code**, while othe
 
 
 -----------------------------------------------------------------------------------
-# Aerospace
+# RoysdonAero - Aircraft Design, Simulation, & Software Toolbox
 <p align="center">
 	<img width="600" img src="/images/aircraft_design_toolbox2.png">
 </p>
 
-## Simulation and Analysis
-This repo is a collection of tools from my **masters and Ph.D. research and publications** on blended-wing-body (BWB) aircraft:
+## Simulation & Analysis
+This repo is a collection of tools from my **personal and M.S./Ph.D. research and publications** on fixed-wing and rotary aircraft:
 - [**Aero Analysis Spreadsheet**](https://github.com/pfroysdon/projects/blob/main/aerospace/aero_analysis_spreadsheet) is a complete aircraft design speadsheet including drag build-up, take-off analysis, structures analysis, turn performance, glide performance, and a complete aero-coefficient comparison to other aircraft.
 - [**3 Degrees-of-Freedom (DOF) Aerial Decelerator**](https://github.com/pfroysdon/projects/blob/main/aerospace/3dof_decelerator) (parachute) used to simulate a parachute recovery footprint given an initial altitude, airspeed and wind conditions.
 - [**6 DOF Flight Simulator - Linear**](https://github.com/pfroysdon/projects/blob/main/aerospace/6dof_linear) implements classic control theory (PIDs) used for analyzing flight profiles and peformance of any aircraft.
@@ -49,7 +49,7 @@ This repo is a collection of tools from my **masters and Ph.D. research and publ
 
 
 -----------------------------------------------------------------------------------
-# Applied Math
+# RoysdonCyber - Design, Simulation, & Software Toolbox
 <p align="center">
 	<img width="500" img src="/images/ILP_Lite_Main.png">
 </p>
@@ -64,14 +64,14 @@ This repo is a collection of tools from **personal and Ph.D. research in mathema
 
 
 -----------------------------------------------------------------------------------
-# Navigation
+# RoysdonNav - Navigation System Design, Simulation, & Software Toolbox
 <p align="center">
 	<img width="500" img src="/images/navigation_toolbox2.png">
 </p>
 
-This repo is a collection of tools from my **Ph.D. research and publications**:
+This repo is a collection of tools from my **personal and Ph.D. research and publications**:
 
-## Simulation and Analysis
+## Simulation & Analysis
 - [**AHRS State Estimation**](https://github.com/pfroysdon/projects/blob/main/navigation/ahrs_state_estimation) is a complete implementation of an attitude heading and reference system.
 - [**Allan Variance**](https://github.com/pfroysdon/projects/blob/main/navigation/allan_variance) is a complete implementation of an Allan-Variance analysis.
 - [**Baro Temporal Propagation & State Estimation**](https://github.com/pfroysdon/projects/blob/main/navigation/baro_temporal_propagation) is a complete implementation of a baro-altitude temporal propagation algorithm.
@@ -120,7 +120,7 @@ This repo is a collection of random projects:
 
 
 -----------------------------------------------------------------------------------
-# Watchmaker
+# RoysdonWatchCo
 This repo is a collection of tools for **watchmakers**:
 - [**Beat Rate**](https://github.com/pfroysdon/projects/blob/main/watchmaker/beat_rate) this tool uses recorded audio of a mechanical watch to determine the beat rate and phase of the balance.  Beat error results in a watch running fast or slow.  This enables the precise adjustment of a mechanical watch to reduce beat error. 
 - [**Guilloche CAD/CAM**](https://github.com/pfroysdon/projects/blob/main/watchmaker/guilloche) this toolbox generates complex geometric patterns for wrist watch dials, and then generates the tool paths and g-code (machine code) for use on a CNC mill.
