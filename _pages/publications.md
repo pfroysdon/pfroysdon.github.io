@@ -17,12 +17,11 @@ I focus on clear declaration of variables and documentation of equations/algorit
 
 [This folder](https://github.com/pfroysdon/publications/tree/main/Books) contains the code and a **free chapter preview** for each of my [books](https://www.roysdonfibonaccipress.com/), including:
 - How to do Research, Remotely!
-- How to do Research: a Guide for Students & Practitioners.
 - Machine Learning: a Conceptual Approach.
-- Math Refresher for Engineers and Scientists.
-- Math Handbook for Engineers and Scientists.
+- Math Refresher for AI & Machine Learning.
+- Math Handbook for AI & Machine Learning.
 - Optimal Nonlinear Bayesian Estimation and Sensor Fusion.
-- Neural Networks - A Monograph.
+- The Absolute Beginners Guide to Neural Networks.
 
 
 
