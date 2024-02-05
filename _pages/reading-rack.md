@@ -23,7 +23,7 @@ This page is for the books and papers I have read.  For each item I have include
 - [Interpretable Machine Learning: A Guide For Making Black Box Models Explainable](https://amzn.to/3UtlmJ0) **The best book on interpretable ML!** 12/23
 - [Probabilistic Machine Learning: An Introduction - Murphy](https://amzn.to/49oj56i)  Great book, very dense, but given the length I expected math proofs and derivations. 01/24 
 - [Probabilistic Machine Learning: Advanced Topics - Murphy](https://amzn.to/3HMCWjv)  Great book, very dense, but given the length I expected math proofs and derivations. 01/24 
-- [The Founder's Mentality: How to Overcome the Predictable Crises of Growth](https://amzn.to/4bjA8YZ) I read this for work.  I ahev read a lot of books like it, e.g., Lean Startup, etc.  This book was okay and a rather good reminder of what makes companies great. 01/24
+
 
 
 -----------------------------------------------------------------------------------
@@ -448,6 +448,7 @@ The following were read in-depth during the Aspen Institute Executive Leadership
 - [Effective Phrases for Performance Appraisals: A Guide to Successful Evaluations](https://amzn.to/40noA0k) Something I use to help write better performance appraisals. 08/22
 - [Extreme Ownership: How U.S. Navy SEALs Lead and Win - Willink](https://amzn.to/3JDNtON) Very powerful book that encouraged me to change how I act and lead others.  Own your decisions, especially your mistakes!  Don't blame anyone else, ever! 06/20
 - [Turn the Ship Around!: A True Story of Turning Followers into Leaders - Marquet](https://amzn.to/3n5y0PL) A great book about leadership and how to encourage your team to be leaders.  I have read this book 2 times. 06/20
+- [The Founder's Mentality: How to Overcome the Predictable Crises of Growth](https://amzn.to/4bjA8YZ) I read this for work.  I have read a lot of books like it, e.g., Lean Startup, etc.  This book was okay and a rather good reminder of what makes companies great. 01/24
 
 
 ## Health
