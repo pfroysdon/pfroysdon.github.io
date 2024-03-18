@@ -32,7 +32,7 @@ This page is for the books and papers I have read.  For each item I have include
 
 ## Theoretical Physics
 <p align="center">
-	<img width="500" img src="/images/IMG_3748.jpg">
+	<img width="500" img src="/images/IMG_6933.JPG">
 </p>
 
 - [Eight Lectures on Theoretical Physics - Max Planck](https://amzn.to/3JHmnq2) Great lectures and very eloquent.  Dr. Planck takes soft approach to introduce very advanced topics of the day (1909) and describes the problems beautifully.  I wish I was alive and present when he presented. 11/22
@@ -137,6 +137,9 @@ Great review books. **If you want to learn a subject, skip the other books and j
 
 
 ## Cryptanalysis
+<p align="center">
+	<img width="500" img src="/images/IMG_6934.JPG">
+</p>
 
 - [Cryptanalysis: A Study of Ciphers and Their Solution](https://amzn.to/4532XVC) traditional methods for enciphering and deciphering cryptograms.
 - [Algebraic Cryptanalysis](https://amzn.to/3OyJxm8)  This book truely delivers and "bridges the gap between a course in cryptography, and being able to read the cryptanalytic literature."
@@ -152,7 +155,7 @@ Great review books. **If you want to learn a subject, skip the other books and j
 
 ## Machine Learning & Deep Learning
 <p align="center">
-	<img width="500" img src="/images/IMG_3727.jpg">
+	<img width="500" img src="/images/IMG_6935.JPG">
 </p>
 
 Most of the ML literature I have read is contained in technical papers, which I have supplied in section Technical Papers / Machine Learning and Artificial Intelligence.
