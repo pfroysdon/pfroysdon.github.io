@@ -12,7 +12,7 @@ I focus on clear declaration of variables and documentation of equations/algorit
 -----------------------------------------------------------------------------------
 # Book Resources
 <p align="center">
-	<img width="600" img src="/images/IMG_6936.JPG">
+	<img width="600" img src="/images/roysdon_textbooks.JPG">
 </p>
 
 [This folder](https://github.com/pfroysdon/publications/tree/main/Books) contains the code and a **free chapter preview** for each of my [books](https://www.roysdonfibonaccipress.com/), including:
