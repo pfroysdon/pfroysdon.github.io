@@ -10,7 +10,7 @@ redirect_from:
 
 *"In everything, commit yourself to excellence and integrity." - P. F. Roysdon*
 
-For more than 25 years, Dr. Roysdon has worked in engineering and applied mathematics, solving real-world problems.  His career spans academia, defense contractor, and federal government service.  Dr. Roysdon presently leads cutting-edge Cyber and Artificial Intelligence (AI) research at a DoD Contractor where he is Vice President, AI Chief Scientist, Technical Fellow, and Master-level Solution Architect.
+For more than 25 years, Dr. Roysdon has worked in engineering and applied mathematics, solving real-world problems.  His career spans academia, defense contractor, and federal government service.  Dr. Roysdon presently leads cutting-edge Cyber and Artificial Intelligence (AI) research at a defense contractor where he is Vice President, AI Chief Scientist, Technical Fellow, and Master-level Solution Architect.  Dr. Roysdon is also an adjunct professor at NIU.
 
 Dr. Roysdon earned a Ph.D. in Electrical Engineering (dual focus in applied mathematics & probability theory), from the University of California, as well as an M.S. in Aeronautical Engineering, M.S. in Electrical Engineering, M.S. in Mechanical Engineering, and B.S. in both Aeronautical & Mechanical Engineering. He is a Senior Member of AIAA, Senior Member of IEEE, and served on the AIAA Aircraft Design Technical Committee for 15 years.
 
