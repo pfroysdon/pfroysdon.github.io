@@ -17,12 +17,40 @@ This page is for the books and papers I have read.  For each item I have include
 
 -----------------------------------------------------------------------------------
 # Recent Reads
+- [Nonlinear and Adaptive Control Design](https://amzn.to/3wzUhKL)  I am presently writing a textbook on modern control theory for UAVs and cruisemissiles.  This book is the fundamental work in this area and a great reference. 05/24
+- [Notes on Quantum Mechanics; a Course Given at the University of Chicago](https://amzn.to/3WJ64Rl)  This is the original text that is hand written by Fermi.  This book was very exciting to review, particularly because it is hand written and you can see the corrections and notes that Fermi made in preparation for his lectures.  I wish I was alive to see the lectures in person. 04/24
+- [Nuclear Physics: A Course Given by Enrico Fermi at the University of Chicago](https://amzn.to/4dLYQSL)  Similar to the [Quantum Mechanics book](https://amzn.to/3WJ64Rl), this is the original text that is hand written by Fermi.  This book was very exciting to review, particularly because it is hand written and you can see the corrections and notes that Fermi made in preparation for his lectures.  I wish I was alive to see the lectures in person. 04/24
+- [The Visual Display of Quantitative Information](https://amzn.to/3yq0Ksb)  This book was recommended to me after I authored a few textbooks.  Tufte has a very intersting style that has influence most modern textbooks. 04/24
+- [Visual Explanations: Images and Quantities, Evidence and Narrative](https://amzn.to/3WFweol)  This book (like Tufte's other books) was recommended to me after I authored a few textbooks.  Tufte has a very intersting style that has influence most modern textbooks. 04/24
+- [Visual and Statistical Thinking: Displays of Evidence for Making Decisions](https://amzn.to/3yfevK3)  This book (like Tufte's other books) was recommended to me after I authored a few textbooks.  Tufte has a very intersting style that has influence most modern textbooks. 04/24
+- [The Strangest Man - The Hidden Life of Paul Dirac, Mystic of the Atom](https://amzn.to/3wEgw24)  I have always wondered why other physics books and physicists referred to Paul Dirac as a quite man and jokingly said "The measure of one word per day is a 'Dirac'."  This as a very enlightening book about the incredible but challenging life of Paul Dirac. 04/23
+- [Mastering Bioinformatics and Computational Biology: Unraveling the Complexities of Life Through Data-Driven Discovery](https://amzn.to/3UBOFaM)  This book was written entirely with ChatGPT!  What an intersting experience reading a book authored by an algorithm. 04/24
+- [Atomic Habits](https://amzn.to/46kDGrg) This is a great book that reaffirms my personal method of achieving goals.  Everyone should read this book!  This is a quick book to read and I have read it twice (to review some great concepts). 06/23, 03/24
+- [Four Battlegrounds - Power in the Age of Artificial Intelligence](https://amzn.to/4aqU9Lc) This book was gifted to me becuase of my background in AI and the USG.  While the reviews on this book are mixed, and at time harsh, I found this book to be well written and comprehensive.  Sure the author takes some liberties with opinions, but it is a good book that I think other folks should read. 03/23
+- [The Last Man Who Knew Everything - The Life and Times of Enrico Fermi, Father of the Nuclear Age](https://amzn.to/4bK0zq9)  This is a facinating book about the life of Fermi, his family and his students (who later were co-workers on the Manhattan project).  I have read this book twice becuase it was so enjoyable to read. 02/24
 - [Deep Learning: Foundations and Concepts - Bishop](https://amzn.to/3HMYwEI)  This is a followup to his prior book on Pattern Recognition and Classification.  **This is a well-written book, with a good balance of examples and math.** 01/24
 - [Python Data Science Handbook: Essential Tools for Working with Data](https://amzn.to/3OxR6sF)  **Great book.**  I have used this as a primer for teahing and boot camps. 07/19, 12/23
 - [Storytelling with Data: A Data Visualization Guide for Business Professionals](https://amzn.to/3ua94e0) **This is my first choice for data visualization books.  Great book!** 12/23
 - [Interpretable Machine Learning: A Guide For Making Black Box Models Explainable](https://amzn.to/3UtlmJ0) **The best book on interpretable ML!** 12/23
 - [Probabilistic Machine Learning: An Introduction - Murphy](https://amzn.to/49oj56i)  Great book, very dense, but given the length I expected math proofs and derivations. 01/24 
 - [Probabilistic Machine Learning: Advanced Topics - Murphy](https://amzn.to/3HMCWjv)  Great book, very dense, but given the length I expected math proofs and derivations. 01/24 
+
+
+
+-----------------------------------------------------------------------------------
+# Books I am Presently Reading
+- [Computational Molecular Biology: An Introduction](https://amzn.to/3WJ0hLV)
+- [Essential Mathematical Biology](https://amzn.to/3wNMkBz)
+- [High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems](https://amzn.to/3QJtHFW)
+- [Advances in Financial Machine Learning](https://amzn.to/3K6r2T0)
+- [The Feynman Lectures on Physics, boxed set: The New Millennium Edition](https://amzn.to/3WF1Ave)
+- [“Surely You’re Joking, Mr. Feynman!”: Adventures of a Curious Character](https://amzn.to/3yl8Y4J)
+- ["What Do You Care What Other People Think?": Further Adventures of a Curious Character](https://amzn.to/3UMWtq2)
+- [Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher](https://amzn.to/4bHneTI)
+- [Too Big for a Single Mind: How the Greatest Generation of Physicists Uncovered the Quantum World](https://amzn.to/4dAw9bo)
+- [A Mind at Play: How Claude Shannon Invented the Information Age](https://amzn.to/3UMWqum)
+- [Enrico Fermi: Collected Papers (Note E Memorie). 2-Volume Set. (1962/1965)](https://www.lib.uchicago.edu/e/scrc/findingaids/view.php?eadid=ICU.SPCL.FERMI#idp3347400)
+- [John von Neumann / Functional Operators Volume I--Measures and Integrals 1957](https://press.princeton.edu/books/paperback/9780691079660/functional-operators-am-21-volume-1)
 
 
 
