@@ -47,7 +47,6 @@ This page is for the books and papers I have read.  For each item I have include
 
 -----------------------------------------------------------------------------------
 # Books I am Presently Reading
-- [AI for Defense and Intelligence](https://amzn.to/3wKbCAw)  This book was gifted to me by the General Council at my employer. I will have a full review posted soon. 05/24
 - [Computational Molecular Biology: An Introduction](https://amzn.to/3WJ0hLV)
 - [Essential Mathematical Biology](https://amzn.to/3wNMkBz)
 - [High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems](https://amzn.to/3QJtHFW)
