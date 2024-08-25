@@ -1,0 +1,39 @@
+# main links links
+main:
+  - title: "Books"
+#    url: /books/
+    url: https://www.roysdonfibonaccipress.com/
+
+  - title: "Technical Papers"
+    url: /publications/
+#    url: https://github.com/pfroysdon/publications
+
+  - title: "Projects"
+    url: /projects/
+#    url: https://github.com/pfroysdon/projects
+
+  - title: "Reading Rack"
+    url: /reading-rack/
+#    url: https://github.com/pfroysdon/reading_rack
+
+#  - title: "Movie Rack"
+#    url: /movie-rack/
+#    url: https://github.com/pfroysdon/movie_rack
+
+#  - title: "Talks"
+#    url: /talks/    
+
+#  - title: "Teaching"
+#    url: /teaching/    
+    
+#  - title: "Portfolio"
+#    url: /portfolio/
+        
+#  - title: "Blog Posts"
+#    url: /year-archive/
+    
+#  - title: "CV"
+#    url: /cv/
+    
+#  - title: "Guide"
+#    url: /markdown/
