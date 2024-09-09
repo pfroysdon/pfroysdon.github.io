@@ -18,9 +18,12 @@ This page is for the books and papers I have read.  For each item I have include
 -----------------------------------------------------------------------------------
 # Recent Reads
 
+- [The Physical Principles of the Quantum Theory](https://amzn.to/3Z124ct)  This is a collection of lectures presented by Heisenberg at the University of Chicago in 1929.  What an amazing set of lectures.  Interestingly, his primary contributions at the time (bringing linear algebra and calculus into the realm of physics) was saved as an Appendix, and it is nearly half of the book -- the first 104 pages are the lectures, and the following 80 pages are the mathematical foundations.  As he stated in the Preface, he wanted to conduct the lectures with only the necessary math and equations, presumably out of respect for the "old guard" (see my notes on the book "Uncertainty: Einstein, Heisenberg, Bohr, and the Struggle for the Soul of Science") 09/24
+- [Uncertainty: Einstein, Heisenberg, Bohr, and the Struggle for the Soul of Science](https://amzn.to/3lx3jCI)  This is a great book that describes the tension between the "old guard" Einstein and Bohr and the "new" with Heisenberg.  It was not until recently and certainly in this book did I finally understand that physicists at this time were not great mathematicians as well.  Of course I read that Feynman said he studied math for the rest of his life because he was "bad at math", but so too were Einstein and Bohr.  In fact, in this book the author highlights the math used by Heisenberg as the primary contention that Einstein had with the "new physics", he said "It makes no sense".  Heisenberg used linear algebra (quite new at the time) and calculus to describe the phenomena of quantum theory and the "uncertainty principle".  This book also paints Bohr as a very harsh man, and this is the first and only time I have read that about him, all other authors write about how quiet and humble he was and completely unaware of his surroundings, but none have said that he was harsh or mean.  This might the consequence of Bohr being the doctoral advisor for Heisenberg.  Nevertheless, these are all great men of physics, and this was a great book.  08/24
 - "Mathematics for the Practical Man" - J. E. Thompson.  Printed in 1931, re-printed in 1943. This series of 5 books "Arithmetic", "Algebra", "Geometry", "Trigonometry", "Calculus" are all excellent.  I found these books after reading that Richard Feynman learned math from these books (he checked them out from a local library in New York and taught himself math using these books).  These are all excellent books and I highly recommend them to anyone learning or refreshing mathematics. These books use a very practical approach to junior high and high school level math with great descriptions and illustrations. **I wish I had these books as a youth.** 08/24
 - "Lectures on Theoretical Physics" - A. Sommerfeld.  Printed in 1951. This series of 5 books are based on the physics courses Sommerfeld taught for 40 years: "Vol I - Mechanics", "Vol II - Mechanics of Deformable Bodies", "Vol III - Electrodynamics", "Vol IV - Optics" "Vol V - Thermodynamics and Statistical Mechanics".  These are excellent books written by a "father of physics" that taught and mentored 7 Nobel laureates. These books use a very practical approach to university level physics with great descriptions and illustrations. **I wish I had these books as a youth.** 08/24
 - [A Mind at Play: How Claude Shannon Invented the Information Age](https://amzn.to/3UMWqum) - I really enjoyed this book.  I was well aware of the contributions by Claude Shannon (he created the field of Information Theory), but I was not aware that after his seminal papers and book that he literally spent the rest of his life exploring things completely unrelated to information theory, e.g., the physics of a unicycle and juggling (or more correctly, the physics of juggling while riding a unicycle), etc. 08/24
+- [Niels Bohr's Times, In Physics, Philosophy, and Polity](https://amzn.to/42se2im)  This book paints a picture of an odd and quiet man of incredible physics.  This is a fast read and worth the time.  07/24
 - [Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher](https://amzn.to/4bHneTI) - This is a great book for the novice in physics, taught by one of the best teachers in physics.  If you read this, I also encourage you to [watch the corresponding lectures](https://www.feynmanlectures.caltech.edu/) so that you can hear this contents of this book in the voice of Feynman, with his characteristic tone and tenor. 07/24
 - [John von Neumann / Functional Operators Volume I--Measures and Integrals 1957](https://press.princeton.edu/books/paperback/9780691079660/functional-operators-am-21-volume-1) 07/24
 - [AI for Defense and Intelligence](https://amzn.to/4bIZKxa) - This is a good summary of many topics around the field of AI, from basic description of various AI models and their applications to topics of hardware, AI ethics and Law.  There are however, many typos in the book, several sections are generated by ChatGPT, and the author claims as AI several standard math or statistics or statistical learning methods (they are not AI); this is very misleading and confusing to new readers in this field.  That said, I would recommend this book as a first read to folks in leadership positions who engage with AI teams or professionals. 07/24
@@ -86,12 +89,9 @@ This page is for the books and papers I have read.  For each item I have include
 - [A Survey of Physical Theory - Max Planck](https://amzn.to/3FGi2SL) This is a topical book (a survey) wherein Dr. Planck provides his thoughts on the current state of physics (in 1925).  It is rather easy to follow, very little math (I counted fewer than 10 equations), with a particularly interesting discussion on electromagnetic theory. 12/22
 - [Equations of Mathematical Physics](https://amzn.to/3FCRKk8) Great book that covers the mathematics of theoretical and experimental physics. 01/23
 - [Mathematics for Physicists](https://amzn.to/40mXrKY) Great book that covers the mathematics of theoretical and experimental physics. 01/23
-- [The Physical Principles of the Quantum Theory](https://amzn.to/3Z124ct)
-- [Niels Bohr's Times, In Physics, Philosophy, and Polity](https://amzn.to/42se2im)
 - [History of Physics - Max von Laue](https://amzn.to/40mXExK)
 - [Subtle Is the Lord: The Science and the Life of Albert Einstein](https://amzn.to/3TO0kCJ)
 - [Relativity - Albert Einstein](https://amzn.to/3Z4lu0b)
-- [Uncertainty: Einstein, Heisenberg, Bohr, and the Struggle for the Soul of Science](https://amzn.to/3lx3jCI)
 - [The Philosophy of Physics](https://amzn.to/3JTPFCV)
 - [Lectures on Physics and the Nature of Scientific Knowledge - Erwin Schrödinger](https://amzn.to/3lAjX4j)
 - [Equations of Mathematical Physics](https://amzn.to/3JX7LUF)
@@ -122,7 +122,7 @@ This page is for the books and papers I have read.  For each item I have include
 - [A History of Mathematical Notations](https://amzn.to/4042Dn7) this is a complete history of mathematical notation written by Professor Florian Cajori in 1923.  This is a fantastic book that I have only read chapters of.  Originally published as 2 volumes, to present day (100 years later), it is still the most comprehensive treatment of the origins of mathematical notation. 01/23
 - [How to Lie with Statistics](https://amzn.to/3OpWiz2) This book is a must read for everyone, just to understand how statistics are used to manipulate any narrative.  The ideas in book are both comical and concerning. 07/23
 - [Damned Lies and Statistics: Untangling Numbers from the Media, Politicians, and Activists](https://amzn.to/3O2jgLu) Like the previous book, this one is a must read for everyone, and the ideas are both comical and concerning. In fact, the author references the prior book as a good starting point.  The first 3 pages alone should captivate and concern any reader.  In many places I checked the math, I even wrote Matlab simulations to verify the results, and alarmingly the author is correct. For example "the number of child gun deaths have doubled since 1950" the original quote, versus the often (mis)quoted by the media "the number of gun child deaths have doubled each year since 1950".  Given the second quote, here is the math: define deaths(i=1950)=1, for i=1951:1995, let deaths(i) = deaths(i-1)x2, then deaths(i=1995)= 3.5 e+13. That is 3.5 trillion child deaths in the year 1995 alone (not cumulative since 1950, read the quote)!  Do you see how a mis-quote is not only misleading but simply impossible?! 07/23
-- [Theory of Games and Economic Behavior - von Neumann](https://amzn.to/3w3ZR7D) This is a challenging book, and it is hard to imagine that Von Neumann wrote the first 600 pages in just a few days.  **There is an easter egg in section 8.3.1 on set theory!**  Read [this biography](https://amzn.to/3wcsT4H) to find out more. 10/23
+- [Theory of Games and Economic Behavior - von Neumann](https://amzn.to/3w3ZR7D) This is a challenging book, and it is hard to imagine that Von Neumann wrote the first 600 pages in just a few days.  **There is an Easter egg in section 8.3.1 on set theory!**  Read [this biography](https://amzn.to/3wcsT4H) to find out more. 10/23
 
 
 Dover books: these are re-prints of great books that I read during my PhD studies.
@@ -185,12 +185,12 @@ Great review books. **If you want to learn a subject, skip the other books and j
 - [Algebraic Cryptanalysis](https://amzn.to/3OyJxm8)  This book truely delivers and "bridges the gap between a course in cryptography, and being able to read the cryptanalytic literature."
 - [Translucent Databases: Confusion, Misdirection, Randomness, Sharing, Authentication And Steganography To Defend Privacy](https://amzn.to/44IUZ4b) an interesting approach to build databases that protect the user's information.
 - [Codes, Ciphers, Steganography & Secret Messages](https://amzn.to/3DtuT9p) a complete introduction to codes, ciphers and secret messages with many examples of each..
-- [Lattice Theory: Foundation](https://amzn.to/44F2skP) provides a solid foundation on distributivity, congruences, constructions, modularity and semimodularity, varieties, and free products.
+- [Lattice Theory: Foundation](https://amzn.to/44F2skP) provides a solid foundation on distributive, congruence, constructions, modularity and semimodularity, varieties, and free products.
 - [Understanding Cryptography: A Textbook for Students and Practitioners](https://amzn.to/3OxeI18) this is a great book for undergraduate students or practitioners on the fundamentals of stream ciphers, the Data Encryption Standard (DES) and 3DES, the Advanced Encryption Standard (AES), block ciphers, the RSA cryptosystem, public-key cryptosystems based on the discrete logarithm problem, elliptic-curve cryptography (ECC), digital signatures, hash functions, Message Authentication Codes (MACs), and methods for key establishment, including certificates and public-key infrastructure (PKI).
 -[Sphere Packings, Lattices and Groups](https://amzn.to/3QhEeZl) translated from German, this is a deeply theoretical book on things like the most efficient way to pack a large number of equal spheres in n-dimensional Euclidean space.  It also gives applications to number theory, coding theory, group theory, analogue-to-digital conversion and data compression, n-dimensional crystallography, dual theory and superstring theory.
 - [Applied Cryptanalysis: Breaking Ciphers in the Real World](https://amzn.to/3OhxY1k) each chapter is written to be self-contained, so a practitioner interested in RSA timing attacks can read that one chapter and gain the needed information.  I am presently writing a book in machine learning with a very similar approach to the chapters that I am writing.
 - [Steganography Techniques for Digital Images](https://amzn.to/3rP9aWU) Steg' is not new, but this book provides a new and efficient Steganographic system, called Characteristic Region-Based Image Steganography (CR-BIS) that combines both the robustness of the Speeded-Up Robust Features technique (SURF) and Discrete Wavelet Transform (DWT).
-- [History of Cryptography and Cryptanalysis: Codes, Ciphers, and Their Algorithms](https://amzn.to/44KLKR4)  I really like history books on technical topics, e.g., [A History of Mathematical Notations](https://amzn.to/4042Dn7).  This book covers the  monoalphabetic cipher of antiquity, to cipher machines used throughout World War I and II, to modern criminal cyber-attacks and cyber-warfare.
+- [History of Cryptography and Cryptanalysis: Codes, Ciphers, and Their Algorithms](https://amzn.to/44KLKR4)  I really like history books on technical topics, e.g., [A History of Mathematical Notations](https://amzn.to/4042Dn7).  This book covers the monoalphabetic cipher of antiquity, to cipher machines used throughout World War I and II, to modern criminal cyber-attacks and cyber-warfare.
 
 
 ## Machine Learning & Deep Learning
@@ -211,11 +211,11 @@ Most of the ML literature I have read is contained in technical papers, which I 
 - [Graph Algorithms in the Language of Linear Algebra - Kepner and Gilbert](https://amzn.to/3JA2qkT)
 - [Deep Learning - Goodfellow](https://amzn.to/3LFSZ5O)  This book reads like a Ph.D. dissertation and includes equation details rarely found in other texts. 01/23
 - [Machine Learning: a Concise Introduction - Knox](https://amzn.to/3Z7JaB1) **I know the author personally** 06/19
-- [Deep Learning: Foundations and Concepts - Bishop](https://amzn.to/3HMYwEI)  This is a followup to his prior book on Pattern Recognition and Classification.  This is a well-written book, with a good balance of examples and math. 01/24
+- [Deep Learning: Foundations and Concepts - Bishop](https://amzn.to/3HMYwEI)  This is a follow-up to his prior book on Pattern Recognition and Classification.  This is a well-written book, with a good balance of examples and math. 01/24
 - [Explainable Artificial Intelligence: An Introduction to Interpretable Machine Learning](https://amzn.to/3uvkd97)  This book is worth the time to read.  It covers many of the most common algorithms in ML, with enough depth to be useful in practice. 11/23
 - [The Metrics Manifesto: Confronting Security with Data](https://amzn.to/486rF8x)  This is a great book with several humorous examples of the necessity of selecting the right data and metrics. 12/23
 - [Inside Deep Learning: Math, Algorithms, Models](https://amzn.to/3Ox8iP7) Incomplete book. 12/23
-- [Python Data Science Handbook: Essential Tools for Working with Data](https://amzn.to/3OxR6sF)  **Great book.**  I have used this as a primer for teahing and boot camps. 07/19
+- [Python Data Science Handbook: Essential Tools for Working with Data](https://amzn.to/3OxR6sF)  **Great book.**  I have used this as a primer for teaching and boot camps. 07/19
 - [Essential Math for Data Science: Take Control of Your Data with Fundamental Linear Algebra, Probability, and Statistics](https://amzn.to/3UnRwWn) This author does a good job with descriptions of probability theory and Statistics.  Better than most! 12/23
 - [The Data Science Handbook](https://amzn.to/3UtlgkC) This is a good quick reference, though I found it a bit incomplete. 12/23
 - [Machine Learning: An Applied Mathematics Introduction](https://amzn.to/3SJWWcO)  Great math introduction, or review, for ML!
@@ -223,7 +223,7 @@ Most of the ML literature I have read is contained in technical papers, which I 
 - [Generative Deep Learning: Teaching Machines to Paint, Write, Compose, and Play](https://amzn.to/42v4cNg)  This is a fine tutorial book.  Not my favorite. 12/23
 - [Mathematics for Machine Learning](https://amzn.to/47YeFSt)  Great math descriptions of algorithms, but not enough depth.  I was hoping for more derivations and proofs. 12/23
 - [Better Data Visualizations: A Guide for Scholars, Researchers, and Wonks](https://amzn.to/49h8Pwm)  Honestly not a great book.  [This book](https://amzn.to/3ua94e0) is much better. 12/23 
-- [Linear Algebra and Optimization for Machine Learning: A Textbook](https://amzn.to/3HLliN7) This book is visually dense on each page and consequently it is difficult to read. The author describes each topic well, and you can defnintely see his personality coming through the pages. 12/23
+- [Linear Algebra and Optimization for Machine Learning: A Textbook](https://amzn.to/3HLliN7) This book is visually dense on each page and consequently it is difficult to read. The author describes each topic well, and you can definitely see his personality coming through the pages. 12/23
 - [Interpretable Machine Learning: A Guide For Making Black Box Models Explainable](https://amzn.to/3UtlmJ0) **The best book on interpretable ML!** 12/23
 - [Interpretable AI: Building explainable machine learning systems](https://amzn.to/49qcxE9) This book is okay.  [This book]((https://amzn.to/3UtlmJ0)) is much better. 12/23 
 - [Deep Learning from Scratch: Building with Python from First Principles](https://amzn.to/3HM7NwJ) Not a great book.  It is definitely not "from scratch" nor is it "first principles".  It is building ML models with Python and using existing frameworks like PyTorch or TensorFlow. 12/23
@@ -272,9 +272,9 @@ Most of the ML literature I have read is contained in technical papers, which I 
 </p>
 
 - [Aircraft Design: A Conceptual Approach, Fourth Edition](https://amzn.to/3yVTwJp)  **I served on the AIAA Air Craft Design Technical Committee with this author for 5 years.** This book helped me design several military aircraft. **This is absolutely the best book for aircraft design, and I know the author personally**  
-- [Aircraft Design: A Conceptual Approach, Sixth Edition](https://amzn.to/3z3821T)  **I served on the AIAA Air Craft Design Technical Committee with this author for 5 years.** This updated edition includes electric aircraf design. **I know the author personally**
+- [Aircraft Design: A Conceptual Approach, Sixth Edition](https://amzn.to/3z3821T)  **I served on the AIAA Air Craft Design Technical Committee with this author for 5 years.** This updated edition includes electric aircraft design. **I know the author personally**
 - [Lessons Learned: A Guide to Improved Aircraft Design](https://amzn.to/3yUrZIv) **I know the author personally**
-- [Introduction to the Design of Fixed-Wing Micro Air Vehicles](https://amzn.to/3luYmdt) THis book was purcahsed for a small and successful IRAD project. 06/14
+- [Introduction to the Design of Fixed-Wing Micro Air Vehicles](https://amzn.to/3luYmdt) This book was purchased for a small and successful IRAD project. 06/14
 - [Dynamics of Flight - Etkin & Reid](https://amzn.to/3LHmp3D) This book helped me design several military aircraft. Excellent book for understanding stability variables and derivatives. 06/07
 - [Fundamentals of Astrodynamics](https://amzn.to/3ZXsYDv) 08/16
 - [Radar Cross Section Second Edition](https://amzn.to/3Z6RroJ) This book helped me design several military aircraft. 01/08
@@ -300,7 +300,7 @@ Most of the ML literature I have read is contained in technical papers, which I 
 - [Fluid-Dynamic Lift: Theoretical, experimental and statistical information - Hoerner](https://amzn.to/407p76L) A must-have for aircraft design 10/08
 - [Intake Aerodynamics](https://amzn.to/42tq0s7) This book helped me design intakes of several military aircraft. 10/08
 - [Boundary Layer Theory - Schlichting](https://amzn.to/3FGG4Nb) I used this text while in grad school, great book! 10/08
-- [Fighter Combat: Tactics and Maneuvering](https://amzn.to/3TxI4Ns) Great book for miltary aircraft flight testing. 05/08
+- [Fighter Combat: Tactics and Maneuvering](https://amzn.to/3TxI4Ns) Great book for military aircraft flight testing. 05/08
 - [Gas Dynamics, Volume 1 - Zucrow & Hoffman](https://amzn.to/3TAg9fR) I used this text while in grad school, great book! 02/09
 - [Flight Testing of Fixed-Wing Aircraft - Kimberlin](https://amzn.to/3ncYdMx) Great book for flight test planning and analysis 01/09
 - [Aircraft Control and Simulation - Stevens & Lewis](https://amzn.to/3JHLadA) Great book for 6DOF simulation design. 10/10
@@ -337,7 +337,7 @@ Most of the ML literature I have read is contained in technical papers, which I 
 - [Nonlinear Control Systems: Analysis and Design - Marquez](https://amzn.to/3yUsP87) I used this during my PhD studies 01/14
 - [Global Positioning Systems, Inertial Navigation, and Integration - Grewal](https://amzn.to/3yXw7HC) **I know the author personally** 07/10
 - [Kalman Filtering : Theory and Practice Using MATLAB](https://amzn.to/40rxrOM) **I know the author personally** 07/10
-- [Convex Optimization - Boyd](https://amzn.to/3Kf0lfe) I used this book throughout grad school and continue to use it in my research.  This is the "bible" of convex optimization.  You should also look-up the software, CVX, that was written to accompany this book (writting mostly one of Boyd's grad students).  06/14
+- [Convex Optimization - Boyd](https://amzn.to/3Kf0lfe) I used this book throughout grad school and continue to use it in my research.  This is the "bible" of convex optimization.  You should also look-up the software, CVX, that was written to accompany this book (written mostly one of Boyd's grad students).  06/14
 
 
 
@@ -354,7 +354,7 @@ Most of the ML literature I have read is contained in technical papers, which I 
 - [A Guide to Complicated Watches](https://amzn.to/3ZsjJLW) 08/23
 - [The Mechanics of Mechanical Watches and Clocks](https://amzn.to/3PIU2nc) 08/23
 - [Watchmaking - George Daniels](https://amzn.to/3na44C9) The best book to get you started in watchmaking. 09/19
-- [The Watchmakers' Staking Tool - K&D Co.](https://amzn.to/3FGFIq7) Ver useful to undersatnd the staking tool and its applications. 12/19
+- [The Watchmakers' Staking Tool - K&D Co.](https://amzn.to/3FGFIq7) Ver useful to understand the staking tool and its applications. 12/19
 - [Bench Practices for Watch Repairers - Fried](https://amzn.to/42w2IBF) 12/19
 - [2,100 Victorian Monograms (Lettering, Calligraphy, Typography)](https://amzn.to/3JWUpYn) A great reference for artistic design that is nearly a lost art. 12/19
 - [5000 Decorative Monograms for Artists and Craftspeople](https://amzn.to/3nbo5s0) A great reference for artistic design that is nearly a lost art. 12/19
