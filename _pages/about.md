@@ -14,4 +14,4 @@ Dr. Roysdon is a highly competent real-world problem solver with a career that h
 
 Dr. Roysdon’s academic journey is a testament to his unwavering dedication and deep passion for many fields. He earned six engineering degrees in aerospace, mechanical and electrical engineering, including a Ph.D. with a dual focus on applied mathematics and probability theory. He has also completed graduate-level studies in theoretical physics and constitutional law with a focus on AI. He has authored and published six peer-reviewed [textbooks](http://www.roysdonfibonaccipress.com/), and numerous [scientific articles](https://github.com/pfroysdon/publications/tree/main/Papers), [technical notes](https://github.com/pfroysdon/publications/tree/main/Tech_Notes), and six patents pending.
 
-His other interests include flying and [watchmaking](https://www.roysdonwatchco.com/).
+His other interests include [flying](https://youtu.be/AFlVtWswTNU) and [watchmaking](https://www.roysdonwatchco.com/).
