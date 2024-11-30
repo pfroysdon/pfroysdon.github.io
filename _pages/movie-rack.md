@@ -17,8 +17,6 @@ At the request of my colleagues, below is a list of vintage American movies and 
 
 These are generally organized by actor or genre, of course some fall into multiple categories.
 
-If you wish to contact me, send an email to [roysdonfibonaccipress@gmail.com](mailto:roysdonfibonaccipress@gmail.com)
-
 
 -----------------------------------------------------------------------------------
 

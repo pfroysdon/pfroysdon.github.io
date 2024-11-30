@@ -16,8 +16,8 @@ main:
     url: /reading-rack/
 #    url: https://github.com/pfroysdon/reading_rack
 
-#  - title: "Movie Rack"
-#    url: /movie-rack/
+  - title: "Movie Rack"
+    url: /movie-rack/
 #    url: https://github.com/pfroysdon/movie_rack
 
 #  - title: "Talks"
