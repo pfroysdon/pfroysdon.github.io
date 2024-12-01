@@ -23,13 +23,14 @@ These are generally organized by actor or genre, of course some fall into multip
 # TV shows
 -----------------------------------------------------------------------------------
 - **The Dick Van Dyke Show** - a classic with many realistic fun and clashes in a marriage
-- **Hogan’s Hero’s** - a comedy of "prison camp" spies in WWII
+- **Hogan’s Hero’s** - a comedy "prisoner of war camp" spies in WWII
 - **Black Sheep Squadron** - real airplanes, no CGI
 - I Love Lucy
 - McHale's Navy - another WWII comedy
 - Leave it to Beaver
 - **MASH** - the humor grows on you
 - **The Andy Griffith Show** - a classic comedy, Don Knotts is one of a kind
+- **Mister Rogers** - while Rogers intended his show for children, I have learned a lot as a father.  Most importantly... be kind, be kind, be kind. 
 
 
 # Movies
