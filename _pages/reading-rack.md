@@ -23,6 +23,16 @@ This page is for the books and papers I have read.  For each item I have include
 - [Venture Deals, 4th Edition: Be Smarter than Your Lawyer and Venture Capitalist](https://amzn.to/40wzeDx) Recommended as a book to read as an entrepreneur... great book. This was recommended after the Elon book. 01/25 
 - [Zero to One: Notes on Startups, or How to Build the Future](https://amzn.to/4gkWbQk) A book recommended by Elon Musk... great book. 01/25
 - [For Love of Country: Leave the Democrat Party Behind](https://amzn.to/4jwsDlf) A friend recommended this book.  This is a great book about an Americon patriot. 12/24
+- [Algorithmic Mathematics in Machine Learning](https://amzn.to/3EjJjfG)
+- [Weaponeering](https://amzn.to/40tbAYS) A must have for anyone intersted in model rocketry engineering. 12/24
+- [The Physics of the Manhattan Project](https://amzn.to/40ycseR) Apparently the Manhattan Project was less about physics and more about engineering.  The physics were largely known at the time of the Project, but scale was not.  A great read. 12/24
+- [Missile Guidance and Pursuit: Kinematics, Dynamics and Control](https://amzn.to/40u66Np) A must have for anyone intersted in model rocketry engineering. 12/24
+- [The Daring Invention of Logarithm Tables: How Jost Bürgi, John Napier, and Henry Briggs simplified arithmetic and started the computing revolution](https://amzn.to/3WVO9Xh)  This book sent me down a rabbit hole on logarithms.  What a great read and experience as a started to apply these tables and principles.  Only now can I appreciate the incredible nature of mathematics prior to the computer age. 12/24
+- [Tactical and Strategic Missile Guidance](https://amzn.to/3PMbMxr) A must have for anyone intersted in model rocketry engineering. 12/24
+- [Quantum Theory - Bohm](https://amzn.to/3PMLBGX) Bohm has a unique perspective on Quantum Mechanics.  12/24
+- [Lectures on Quantum Mechanics - Dirac](https://amzn.to/40L75dj)  I read this after reading Dirac's biography.  Very interesting and a difficult book to navigate. 12/24
+- [Mathematics of Classical and Quantum Physics - Byron](https://amzn.to/3Cl24iq)
+- [Machine Learning Q and AI: 30 Essential Questions and Answers on Machine Learning and AI - Sebastian Raschka](https://amzn.to/40Nf61E)  Sebastian is a great teacher and his approach in this book is excellent. 12/24
 - [The Idea Factory: Bell Labs and the Great Age of American Innovation](https://amzn.to/4ha0sah) This is a great book about one of the most innovative companies in modern history.  It is also a sad story of the challenges of remaining at the pinnacle of research and development as leadership changes in the company and in Washington DC.	
 - [PsyWar: Enforcing the New World Order](https://amzn.to/4jsfBW5) This is a difficult book to navigate.  Given one's background you might find this alarming or triggering. 11/24
 - [The Maniac](https://amzn.to/3E91lBr) A very dark book. 11/24
