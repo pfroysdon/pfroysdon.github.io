@@ -15,7 +15,7 @@ I focus on clear declaration of variables and documentation of equations/algorit
 	<img width="600" img src="/images/roysdon_textbooks.JPG">
 </p>
 
-[This folder](https://github.com/pfroysdon/publications/tree/main/Books) contains the code and a **free chapter preview** for each of my [books](https://www.roysdonfibonaccipress.com/), including:
+Then links below contain the **Matlab and Python code** and a **free chapter preview** for each of my [books](https://www.roysdonfibonaccipress.com/), including:
 - [A Comprehensive Approach to Data Science, Machine Learning and AI](https://github.com/pfroysdon/publications/tree/main/Books/A_Comprehensive_Approach_to_ML_and_AI).
 - [Math **Refresher** for Data Science, Machine Learning and AI](https://github.com/pfroysdon/publications/tree/main/Books/Math_Refresher).
 - [Math **Handbook** for Data Science, Machine Learning and AI](https://github.com/pfroysdon/publications/tree/main/Books/Math_Handbook).
