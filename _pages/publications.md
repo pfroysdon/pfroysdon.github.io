@@ -12,7 +12,7 @@ I focus on clear declaration of variables and documentation of equations/algorit
 -----------------------------------------------------------------------------------
 # Book Resources
 <p align="center">
-	<img width="600" img src="/images/roysdon_textbooks.JPG">
+	<img width="600" img src="/images/ai_books.png">
 </p>
 
 Then links below contain the **Matlab and Python code** and a **free chapter preview** for each of my [books](https://www.roysdonfibonaccipress.com/), including:

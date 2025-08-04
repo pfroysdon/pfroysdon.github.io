@@ -3,8 +3,6 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 AI, Cyber & Quantum Executive & Researcher | Deputy Director of National Intelligence @ ODNI | Chief Data Scientist @ NSA | Chief AI Scientist @ Leidos | Patented Innovator
