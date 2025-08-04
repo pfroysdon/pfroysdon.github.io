@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-**AI, Cyber & Quantum Executive & Researcher | Former Deputy Director of National Intelligence | Chief Data Scientist @ NSA | Chief AI Scientist @ Leidos | Patented Innovator**
+AI, Cyber & Quantum Executive & Researcher | Deputy Director of National Intelligence @ ODNI | Chief Data Scientist @ NSA | Chief AI Scientist @ Leidos | Patented Innovator
 
 **Core Expertise**
 - Executive Leadership: Directed 1,000's engineers & researchers, led elite innovation teams delivering operational solutions
