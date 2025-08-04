@@ -13,9 +13,23 @@ This is a collection of projects from my **PhD research, MS research, and person
 Note: **Most projects require a password to access the source code**, while others are free and open to the public.  This page is a **work in progress,** some projects are better documented than others.  I will clean this up as I have time to do so.
 
 
+-----------------------------------------------------------------------------------
+# Roysdon AI & Cyber - Design, Simulation, & Software Toolbox
+<p align="center">
+	<img width="500" img src="/images/ILP_Lite_Main.png">
+</p>
+
+This repo is a collection of tools from **personal and Ph.D. research in mathematics and machine learning**:
+- [**TabMT**](https://github.com/pfroysdon/projects/blob/main/applied_math/tabmt) Generating Tabular data with Masked Transformers. **This work was presented at NeurIPS 2023 as a Spotlight paper and earned the Leidos CTO Award.**
+- [**Cascaded AML**](https://github.com/pfroysdon/projects/blob/main/applied_math/cascaded_aml) performs an adversarial machine learning (AML) analysis using a cascaded algorithm.
+- [**ilpLite**](https://github.com/pfroysdon/projects/blob/main/applied_math/ilp_lite) is a complete implementation of integer linear programming for network analysis.
+- [**JPDAF**](https://github.com/pfroysdon/projects/blob/main/applied_math/jpdaf) is a complete implementation of a joint-probability data-association filter (JPDAF); basically a cascaded EKF for object tracking.
+- [**Network Flow**](https://github.com/pfroysdon/projects/blob/main/applied_math/network_flow) performs a network flow anaysis using ilpLite.
+- [**OFDM**](https://github.com/pfroysdon/projects/blob/main/applied_math/ofdm) is an advanced sim for othogonal frequency division multiplexing.
+
 
 -----------------------------------------------------------------------------------
-# RoysdonAero - Aircraft Design, Simulation, & Software Toolbox
+# Roysdon Aero - Aircraft Design, Simulation, & Software Toolbox
 <p align="center">
 	<img width="600" img src="/images/aircraft_design_toolbox2.png">
 </p>
@@ -47,24 +61,8 @@ This repo is a collection of tools from my **personal and M.S./Ph.D. research an
 - [**On-screen Display (Software & GUI)**](https://github.com/pfroysdon/projects/blob/main/aerospace/on_screen_display) is real-time embedded software used to display real-time flight parameters to a heads-up-display.
 
 
-
 -----------------------------------------------------------------------------------
-# RoysdonCyber - Design, Simulation, & Software Toolbox
-<p align="center">
-	<img width="500" img src="/images/ILP_Lite_Main.png">
-</p>
-
-This repo is a collection of tools from **personal and Ph.D. research in mathematics and machine learning**:
-- [**Cascaded AML**](https://github.com/pfroysdon/projects/blob/main/applied_math/cascaded_aml) performs an adversarial machine learning (AML) analysis using a cascaded algorithm.
-- [**ilpLite**](https://github.com/pfroysdon/projects/blob/main/applied_math/ilp_lite) is a complete implementation of integer linear programming for network analysis.
-- [**JPDAF**](https://github.com/pfroysdon/projects/blob/main/applied_math/jpdaf) is a complete implementation of a joint-probability data-association filter (JPDAF); basically a cascaded EKF for object tracking.
-- [**Network Flow**](https://github.com/pfroysdon/projects/blob/main/applied_math/network_flow) performs a network flow anaysis using ilpLite.
-- [**OFDM**](https://github.com/pfroysdon/projects/blob/main/applied_math/ofdm) is an advanced sim for othogonal frequency division multiplexing.
-
-
-
------------------------------------------------------------------------------------
-# RoysdonNav - Navigation System Design, Simulation, & Software Toolbox
+# Roysdon Nav - Navigation System Design, Simulation, & Software Toolbox
 <p align="center">
 	<img width="500" img src="/images/navigation_toolbox2.png">
 </p>
@@ -118,9 +116,8 @@ This repo is a collection of random projects:
 - [**Greenhouse**](https://github.com/pfroysdon/projects/blob/main/musings/greenhouse) is a complete build guide with blueprints for 10'x12' floating panel greenhouse that can be built using common tools and materials sourced from any home-improvement store.
 
 
-
 -----------------------------------------------------------------------------------
-# RoysdonWatchCo
+# Roysdon Watch Co
 This repo is a collection of tools for **watchmakers**:
 - [**Beat Rate**](https://github.com/pfroysdon/projects/blob/main/watchmaker/beat_rate) this tool uses recorded audio of a mechanical watch to determine the beat rate and phase of the balance.  Beat error results in a watch running fast or slow.  This enables the precise adjustment of a mechanical watch to reduce beat error. 
 - [**Guilloche CAD/CAM**](https://github.com/pfroysdon/projects/blob/main/watchmaker/guilloche) this toolbox generates complex geometric patterns for wrist watch dials, and then generates the tool paths and g-code (machine code) for use on a CNC mill.
