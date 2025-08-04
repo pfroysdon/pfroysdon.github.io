@@ -16,7 +16,7 @@ Note: **Most projects require a password to access the source code**, while othe
 -----------------------------------------------------------------------------------
 # Roysdon AI & Cyber - Design, Simulation, & Software Toolbox
 <p align="center">
-	<img width="300" img src="/images/masked_transformer.png">
+	<img width="100" img src="/images/masked_transformer.png">
 </p>
 
 This repo is a collection of tools from **personal and Ph.D. research in mathematics and machine learning**:
