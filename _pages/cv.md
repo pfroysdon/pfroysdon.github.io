@@ -1,4 +1,3 @@
-<!---
 ---
 layout: archive
 title: "CV"
@@ -8,54 +7,43 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+**AI, Cyber & Quantum Executive & Researcher | Former Deputy Director of National Intelligence | Chief Data Scientist @ NSA | Chief AI Scientist @ Leidos | Patented Innovator**
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+**Core Expertise**
+- Executive Leadership: Directed 1,000's engineers & researchers, led elite innovation teams delivering operational solutions
+- AI & Machine Learning: Large-scale models, adversarial ML, reinforcement learning, ML for cyber & autonomous systems
+- Quantum & Advanced Computing: Quantum-informed ML, free-space RF signal processing, HPC & distributed architectures
+- Cybersecurity & Cryptanalysis: Offensive/defensive cyber, secure systems, advanced cryptography
+- Cloud & Scalable Systems: AI-driven data pipelines, high-performance computing, cross-domain system integration
+- Theoretical & Applied [Research](https://pfroysdon.github.io/projects/): AI & ML, aircraft design & flight testing, autopilot & navigation systems, offensive & defensive cyber, cryptanalysis, signal processing & state estimation
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+**Former Key Roles**
+- Deputy Director of National Intelligence – ODNI
+- Chief Data Scientist – NSA
+- Chief AI Scientist & Vice President – Leidos
+- CEO & Co-Founder - Mojave Research Inc.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Signature Achievements**
+- NeurIPS 2023 Spotlight Paper – “TabMT: Generating Tabular data with Masked Transformers”
+	- Won Leidos CTO Award for AI Innovation
+- Patents: 2 issued, 4 pending in AI & cybersecurity
+- Publications:
+	- 6 peer-reviewed [textbooks](http://www.roysdonfibonaccipress.com/)
+	- Multiple [scientific articles](https://github.com/pfroysdon/publications/tree/main/Papers), [technical notes](https://github.com/pfroysdon/publications/tree/main/Tech_Notes) in AI, ML, and cryptanalysis
+- Awards & Recognition:
+	- NSA Inventor Award, NSA Director’s Reserve Award, ODNI Director’s Award
+	- Leidos Innovation in R&D Award and 2× Leidos CTO Awards	
+	
+**Education**
+- Ph.D. in Electrical Engineering – dual focus in Applied Mathematics & Probability Theory
+- Several engineering degrees in Aerospace, Mechanical and Electrical Engineering from the University of California
+- Graduate studies in Theoretical Physics and Constitutional Law with a focus AI
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
--->
+**Big Tech-Relevant Impact**
+- AI/ML & Quantum Leadership
+- Cyber & Secure Computing Expertise for Cloud & Trust & Safety
+- Proven Track Record of patented innovation and operational deployment at national scale
+
+**Outside Interests**
+- [Competition Aerobatics](https://youtu.be/AFlVtWswTNU) in a Pitts S2  
+- [Horology and Watchmaking](https://www.roysdonwatchco.com/).
