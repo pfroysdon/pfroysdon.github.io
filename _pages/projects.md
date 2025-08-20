@@ -109,7 +109,7 @@ This repo is a collection of tools from my **personal and Ph.D. research and pub
 
 
 -----------------------------------------------------------------------------------
-# Musings
+# Roysdon Musings
 This repo is a collection of random projects:
 - [**Garden Bot**](https://github.com/pfroysdon/projects/blob/main/musings/garden_bot) is a real-time embedded software for a garden irrigation system.
 - [**Package Shaker**](https://github.com/pfroysdon/projects/blob/main/musings/package_shaker) is a real-time embedded software for a "Gag Gift" that, when triggered, either shakes a package, sounds a siren or plays a melody.
