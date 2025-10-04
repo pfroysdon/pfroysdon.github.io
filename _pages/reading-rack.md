@@ -18,6 +18,7 @@ This page is for the books and papers I have read.  For each item I have include
 -----------------------------------------------------------------------------------
 # Recent Reads
 
+- [Too Big for a Single Mind: How the Greatest Generation of Physicists Uncovered the Quantum World](https://amzn.to/4dAw9bo)  This book gave a slightly different account than [The Making of the Atomic Bomb - Rhodes](https://amzn.to/3TCKtqu), and gave a much more comprehensive background of Heisenberg and Einstein and only a brief discussion on many other important physicists of the era, e.g., Dirac, Born, etc. (I have read their books, which I have listed below).  Overall an excellent book. 10/25
 - [Disrupting Time: Industrial Combat, Espionage, and the Downfall of a Great American Company](https://amzn.to/3Wz61qq) This is the sad story of a once great company and American industry that was distroyed by arrogance and industrial espionage. 01/25
 - [Secrets of Sand Hill Road: Venture Capital and How to Get It](https://amzn.to/40yu1eu) Recommended as a book to read as an entrepreneur... great book.  This was recommended after the Elon book. 01/25
 - [Venture Deals, 4th Edition: Be Smarter than Your Lawyer and Venture Capitalist](https://amzn.to/40wzeDx) Recommended as a book to read as an entrepreneur... great book. This was recommended after the Elon book. 01/25 
@@ -86,7 +87,6 @@ This page is for the books and papers I have read.  For each item I have include
 - [High-Frequency Trading: A Practical Guide to Algorithmic Strategies and Trading Systems](https://amzn.to/3QJtHFW)
 - [Advances in Financial Machine Learning](https://amzn.to/3K6r2T0)
 - [The Feynman Lectures on Physics, boxed set: The New Millennium Edition](https://amzn.to/3WF1Ave)
-- [Too Big for a Single Mind: How the Greatest Generation of Physicists Uncovered the Quantum World](https://amzn.to/4dAw9bo)
 - [Enrico Fermi: Collected Papers (Note E Memorie). 2-Volume Set. (1962/1965)](https://www.lib.uchicago.edu/e/scrc/findingaids/view.php?eadid=ICU.SPCL.FERMI#idp3347400)
 
 
