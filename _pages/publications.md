@@ -15,7 +15,7 @@ I focus on clear declaration of variables and documentation of equations/algorit
 	<img width="500" img src="/images/ai_books_on_table.png" style="border-radius: 15px;">
 </p>
 
-Then links below contain the **Matlab and Python code** and a **free chapter preview** for each of my [books](https://www.roysdonfibonaccipress.com/), including:
+The links below contain the **Matlab, Python and R code** and a **free chapter preview** for each of my books that can be purchased [here](https://www.roysdonfibonaccipress.com/).
 - [A Comprehensive Approach to Data Science, Machine Learning and AI](https://github.com/pfroysdon/publications/tree/main/Books/A_Comprehensive_Approach_to_ML_and_AI).
 - [Math **Refresher** for Data Science, Machine Learning and AI](https://github.com/pfroysdon/publications/tree/main/Books/Math_Refresher).
 - [Math **Handbook** for Data Science, Machine Learning and AI](https://github.com/pfroysdon/publications/tree/main/Books/Math_Handbook).
@@ -31,8 +31,7 @@ Then links below contain the **Matlab and Python code** and a **free chapter pre
 	<img width="500" img src="/images/ls_papers_on_table.png" style="border-radius: 15px;">
 </p>
 
-[This folder](https://github.com/pfroysdon/publications/tree/main/Tech_Notes) is a collection of technical reference notes on various subjects, e.g., Navigation, Math, Machine Learning, etc.
-For example *Algebra* has a list of commonly used algebra equations that most folks learned in high school (and likely forgot), with a section of common algebra mistakes (so that you don't repeat the mistakes).
+[This folder](https://github.com/pfroysdon/publications/tree/main/Tech_Notes) is a collection of technical reference notes on various subjects, e.g., Navigation, Math, Machine Learning, etc.  For example *Algebra* has a list of commonly used algebra equations that most folks learned in high school (and likely forgot), with a section of common algebra mistakes (so that you don't repeat the mistakes).
 
 
 
