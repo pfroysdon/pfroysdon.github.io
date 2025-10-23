@@ -19,7 +19,7 @@ The links below contain the **Matlab, Python and R code** and a **free chapter p
 - [A Comprehensive Approach to Data Science, Machine Learning and AI](https://github.com/pfroysdon/publications/tree/main/Books/A_Comprehensive_Approach_to_ML_and_AI).
 - [Math **Refresher** for Data Science, Machine Learning and AI](https://github.com/pfroysdon/publications/tree/main/Books/Math_Refresher).
 - [Math **Handbook** for Data Science, Machine Learning and AI](https://github.com/pfroysdon/publications/tree/main/Books/Math_Handbook).
-- [How to do Research](https://github.com/pfroysdon/publications/tree/main/Books).
+- [How to do Research](https://pfroysdon.github.io/publications/).
 - [Optimal Nonlinear Bayesian Estimation and Sensor Fusion](https://github.com/pfroysdon/publications/tree/main/Books/Sensor_Fusion).
 - [The Absolute Beginners Guide to Neural Networks](https://github.com/pfroysdon/publications/tree/main/Books/Neural_Networks).
 
