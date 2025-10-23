@@ -8,11 +8,11 @@ author_profile: true
 {% include base_path %}
 
 <p align="center">
-	<img width="500" img src="/images/machine-learning-books.jpg">
+	<img width="500" img src="/images/machine-learning-books.jpg" style="border-radius: 15px;">
 </p>
 
 **NOTE:**  
-This page is for the books and papers I have read.  For each item I have included the date and a summary or comment.  Most of the books were purchased on-line, so I have provided Amazon Associate links for anyone interested in purchasing a copy.  The technical papers I have either provided links or the .pdf (or both).
+This page is for the books and papers I have read.  For each item I have included the date and a summary or comment.  Most of the books were purchased on-line, so I have provided links for anyone interested in purchasing a copy.  The technical papers I have either provided links or the .pdf (or both).
 
 
 -----------------------------------------------------------------------------------
@@ -98,7 +98,7 @@ This page is for the books and papers I have read.  For each item I have include
 
 ## Theoretical Physics
 <p align="center">
-	<img width="500" img src="/images/IMG_6933.JPG">
+	<img width="500" img src="/images/IMG_6933.JPG" style="border-radius: 15px;">
 </p>
 
 - [Eight Lectures on Theoretical Physics - Max Planck](https://amzn.to/3JHmnq2) Great lectures and very eloquent.  Dr. Planck takes soft approach to introduce very advanced topics of the day (1909) and describes the problems beautifully.  I wish I was alive and present when he presented. 11/22
@@ -124,7 +124,7 @@ This page is for the books and papers I have read.  For each item I have include
 
 ## Math
 <p align="center">
-	<img width="500" img src="/images/IMG_3744.jpg">
+	<img width="500" img src="/images/IMG_3744.jpg" style="border-radius: 15px;">
 </p>
 
 - [Mathematische Formeln - Sieber](https://amzn.to/404Vtzj) **My preferred short-form (48 pages) math reference.** Apparently every German high school student receives this book! I received this book when I studied in Germany, and during my undergrad I added notes throughout this text, e.g. the definition of a series can be defined in sequence or with a summation, I added the summation form, etc.  **I have considered translating this book (with my notes) for English speaking students.  Send me an email if you are interested.**
@@ -201,7 +201,7 @@ Great review books. **If you want to learn a subject, skip the other books and j
 
 ## Cryptanalysis
 <p align="center">
-	<img width="500" img src="/images/IMG_6934.JPG">
+	<img width="500" img src="/images/IMG_6934.JPG" style="border-radius: 15px;">
 </p>
 
 - [Cryptanalysis: A Study of Ciphers and Their Solution](https://amzn.to/4532XVC) traditional methods for enciphering and deciphering cryptograms.
@@ -218,7 +218,7 @@ Great review books. **If you want to learn a subject, skip the other books and j
 
 ## Machine Learning & Deep Learning
 <p align="center">
-	<img width="500" img src="/images/IMG_6935.JPG">
+	<img width="500" img src="/images/IMG_6935.JPG" style="border-radius: 15px;">
 </p>
 
 Most of the ML literature I have read is contained in technical papers, which I have supplied in section Technical Papers / Machine Learning and Artificial Intelligence.
@@ -266,7 +266,7 @@ Most of the ML literature I have read is contained in technical papers, which I 
 
 ## Law, AI Law & Cyber Law
 <p align="center">
-	<img width="500" img src="/images/IMG_3728.jpg">
+	<img width="500" img src="/images/IMG_3728.jpg" style="border-radius: 15px;">
 </p>
 
 **Note:** I am presently reading the following textbooks on AI Law.  I will provide a complete review of each book when completed.
@@ -290,8 +290,8 @@ Most of the ML literature I have read is contained in technical papers, which I 
 
 ## Aeronautical & Mechanical Engineering, Stability & Control, Aircraft Design
 <p align="center">
-	<img width="500" img src="/images/IMG_3745.jpg">
-	<img width="500" img src="/images/IMG_3746.jpg">
+	<img width="500" img src="/images/IMG_3745.jpg" style="border-radius: 15px;">
+	<img width="500" img src="/images/IMG_3746.jpg" style="border-radius: 15px;">
 </p>
 
 - [Aircraft Design: A Conceptual Approach, Fourth Edition](https://amzn.to/3yVTwJp)  **I served on the AIAA Air Craft Design Technical Committee with this author for 5 years.** This book helped me design several military aircraft. **This is absolutely the best book for aircraft design, and I know the author personally**  
@@ -333,7 +333,7 @@ Most of the ML literature I have read is contained in technical papers, which I 
 
 ## Electrical Engineering, Navigation Theory, State Estimation, Signal Processing
 <p align="center">
-	<img width="500" img src="/images/IMG_3743.jpg">
+	<img width="500" img src="/images/IMG_3743.jpg" style="border-radius: 15px;">
 </p>
 
 - [Aided Navigation, GPS with High Rate Sensors - Farrell](https://amzn.to/3n7xSiK) **This was my PhD adviser**.  His book is the reason I petitioned him to be his PhD student.  Farrell and this book are known world-wide.  **This book is one of the few books that I have seen where every variable is clearly defined and explained**.  I learned so much from Dr. Farrell and I have carried forward his instruction into how I write [my books](https://roysdonfibonaccipress.com).  This is a great book on Kalman Filters, GPS-INS navigation, AHRS, GPS positioning, smoothing, and state estimation.
@@ -366,7 +366,7 @@ Most of the ML literature I have read is contained in technical papers, which I 
 
 ## Watchmaking
 <p align="center">
-	<img width="500" img src="/images/IMG_3747.jpg">
+	<img width="500" img src="/images/IMG_3747.jpg" style="border-radius: 15px;">
 </p>
 
 - [Traité de construction horlogère](https://watchprint.com/en/technical-insights/80-traite-de-construction-horlogere.html) 08/23
@@ -534,9 +534,3 @@ The following were read in-depth during the Aspen Institute Executive Leadership
 - [T.S. Eliot: The Complete Poems and Plays](https://amzn.to/3LCaXX3) 06/15
 - [Robert Frost: Collected Poems, Prose, and Plays](https://amzn.to/3Z7ZsK6) 01/09
 - [Whitman: Poetry and Prose](https://amzn.to/3yTIjJt) 01/09
-
-
-
-
-
-Note: The Amazon links on this page are "Amazon Associate" links.  As an Amazon Associate, I earn from qualifying purchases.
