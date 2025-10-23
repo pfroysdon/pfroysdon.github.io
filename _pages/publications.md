@@ -12,7 +12,7 @@ I focus on clear declaration of variables and documentation of equations/algorit
 -----------------------------------------------------------------------------------
 # Book Resources
 <p align="center">
-	<img width="600" img src="/images/ai_books_on_table.png" style="border-radius: 10px;">
+	<img width="400" img src="/images/ai_books_on_table.png" style="border-radius: 10px;">
 </p>
 
 Then links below contain the **Matlab and Python code** and a **free chapter preview** for each of my [books](https://www.roysdonfibonaccipress.com/), including:
@@ -28,7 +28,7 @@ Then links below contain the **Matlab and Python code** and a **free chapter pre
 -----------------------------------------------------------------------------------
 # Technical Notes
 <p align="center">
-	<img width="250" img src="/images/ls_papers_on_table.png" style="border-radius: 10px;">
+	<img width="400" img src="/images/ls_papers_on_table.png" style="border-radius: 10px;">
 </p>
 
 [This folder](https://github.com/pfroysdon/publications/tree/main/Tech_Notes) is a collection of technical reference notes on various subjects, e.g., Navigation, Math, Machine Learning, etc.
@@ -39,7 +39,7 @@ For example *Algebra* has a list of commonly used algebra equations that most fo
 -----------------------------------------------------------------------------------
 # Technical Papers	
 <p align="center">
-	<img width="250" img src="/images/conf_papers_on_table.png" style="border-radius: 10px;">
+	<img width="400" img src="/images/conf_papers_on_table.png" style="border-radius: 10px;">
 </p>
 
 [This folder](https://github.com/pfroysdon/publications/tree/main/Papers) contains most of the journal papers, conference papers, and technical notes that I have published.  The topics range from computational fluid dynamics (CFD), aircraft design, autopilot design, GPS-INS ("SatNav") and navigation system design, applied mathematics and probability theory.
@@ -50,7 +50,7 @@ For example *Algebra* has a list of commonly used algebra equations that most fo
 # ML Flow Chart
 This great machine learning flow chart will help you decide the right algorithm for your data.
 <p align="center">
-	<img width="600" img src="/images/ML_flow_chart.png" style="border-radius: 10px;">
+	<img width="400" img src="/images/ML_flow_chart.png" style="border-radius: 10px;">
 </p>
 
 You can view the flow-chart [here.](https://github.com/pfroysdon/publications/blob/main/Flow-Chart)
