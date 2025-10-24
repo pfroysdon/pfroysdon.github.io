@@ -47,9 +47,8 @@ The links below contain the **Matlab, Python and R code** and a **free chapter p
 
 -----------------------------------------------------------------------------------
 # ML Flow Chart
-This great machine learning flow chart will help you decide the right algorithm for your data.
 <p align="center">
 	<img width="500" img src="/images/ML_flow_chart.png" style="border-radius: 15px;">
 </p>
 
-You can view the flow-chart [here.](https://github.com/pfroysdon/publications/blob/main/Flow-Chart)
+This great machine learning flow chart will help you decide the right algorithm for your data. You can download this and other flow-charts [here.](https://github.com/pfroysdon/publications/blob/main/Flow-Chart)
