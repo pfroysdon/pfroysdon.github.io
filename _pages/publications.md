@@ -31,7 +31,8 @@ The links below contain the **Matlab, Python and R code** and a **free chapter p
 	<img width="500" img src="/images/ls_papers_on_table.png" style="border-radius: 15px;">
 </p>
 
-[This folder](https://github.com/pfroysdon/publications/tree/main/Tech_Notes) is a collection of technical reference notes on various subjects, e.g., Navigation, Math, Machine Learning, etc.  For example *Algebra* has a list of commonly used algebra equations that most folks learned in high school (and likely forgot), with a section of common algebra mistakes (so that you don't repeat the mistakes).
+[This folder](https://github.com/pfroysdon/publications/tree/main/Tech_Notes) is a collection of *Technical Notes* on various subjects, e.g., AI, Navigation, Math, Machine Learning, etc.  For example the *Variational Autoencoder* Tech Note has complete algorithm derivations and proofs, whereas the *Linear Algebra* Tech Note has a list of commonly used 
+ equations that most folks learned in college (and likely forgot), with a section that lists common mistakes (so that you don't repeat them).
 
 
 
