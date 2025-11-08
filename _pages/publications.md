@@ -31,8 +31,12 @@ The links below contain the **Matlab, Python and R code** and a **free chapter p
 	<img width="500" img src="/images/ls_papers_on_table.png" style="border-radius: 15px;">
 </p>
 
-[This folder](https://github.com/pfroysdon/publications/tree/main/Tech_Notes) is a collection of *Technical Notes* on various subjects, e.g., AI, Navigation, Math, Machine Learning, etc.  For example the *Variational Autoencoder* Tech Note has complete algorithm derivations and proofs, whereas the *Linear Algebra* Tech Note has a list of commonly used 
- equations that most folks learned in college (and likely forgot), with a section that lists common mistakes (so that you don't repeat them).
+The [Technical Notes](https://github.com/pfroysdon/publications/tree/main/Tech_Notes) folder contains a collection of *Technical Notes* on various subjects, e.g., AI, Navigation, Math, Machine Learning, etc.  
+
+The [Complete Math Derivations and Proofs](https://github.com/pfroysdon/publications/tree/main/Math_Derivations) folder contains a collection of *Math Derivations and Proofs* on various subjects in AI and Machine Learning.
+
+The [Math References](https://github.com/pfroysdon/publications/tree/main/Math_References) folder is a collection of *Math References* on various subjects in Mathematics, e.g., the *Linear Algebra* document has a list of commonly used equations that most folks learned in college (and likely forgot), with a section that lists common mistakes (so that you don't repeat them)..
+
 
 
 
@@ -42,7 +46,7 @@ The links below contain the **Matlab, Python and R code** and a **free chapter p
 	<img width="500" img src="/images/conf_papers_on_table.png" style="border-radius: 15px;">
 </p>
 
-[This folder](https://github.com/pfroysdon/publications/tree/main/Papers) contains most of the journal papers, conference papers, and technical notes that I have published.  The topics range from computational fluid dynamics (CFD), aircraft design, autopilot design, GPS-INS ("SatNav") and navigation system design, applied mathematics and probability theory.
+The [Technical Papers](https://github.com/pfroysdon/publications/tree/main/Papers) folder contains most of the journal papers, conference papers, and technical notes that I have published.  The topics range from aircraft design, autopilot design, GPS-INS ("SatNav") and navigation system design, to computational fluid dynamics (CFD), applied mathematics and probability theory.
 
 
 
