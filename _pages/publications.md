@@ -21,7 +21,7 @@ The links below contain the **Matlab, Python and R code** and a **free chapter p
 - [Math **Handbook** for Data Science, Machine Learning and AI](https://github.com/pfroysdon/publications/tree/main/Books/Math_Handbook).
 - [How to do Research](https://pfroysdon.github.io/publications/).
 - [Optimal Nonlinear Bayesian Estimation and Sensor Fusion](https://github.com/pfroysdon/publications/tree/main/Books/Sensor_Fusion).
-- [The Absolute Beginners Guide to Neural Networks](https://github.com/pfroysdon/publications/tree/main/Books/Neural_Networks).
+
 
 
 
@@ -37,6 +37,7 @@ The [Complete Math Derivations and Proofs](https://github.com/pfroysdon/publicat
 
 The [Math References](https://github.com/pfroysdon/publications/tree/main/Math_References) folder is a collection of *Math References* on various subjects in Mathematics, e.g., the *Linear Algebra* document has a list of commonly used equations that most folks learned in college (and likely forgot), with a section that lists common mistakes (so that you don't repeat them)..
 
+The [Cheatsheet](https://github.com/pfroysdon/publications/blob/main/Cheatsheet) and [Flow-Chart](https://github.com/pfroysdon/publications/blob/main/Flow_Chart) folders have great machine learning tools to help you decide the right algorithm for your data.
 
 
 
@@ -46,14 +47,6 @@ The [Math References](https://github.com/pfroysdon/publications/tree/main/Math_R
 	<img width="500" img src="/images/conf_papers_on_table.png" style="border-radius: 15px;">
 </p>
 
-The [Technical Papers](https://github.com/pfroysdon/publications/tree/main/Papers) folder contains most of the journal papers, conference papers, and technical notes that I have published.  The topics range from aircraft design, autopilot design, GPS-INS ("SatNav") and navigation system design, to computational fluid dynamics (CFD), applied mathematics and probability theory.
+The [Technical Papers](https://github.com/pfroysdon/publications/tree/main/Papers) folder contains most of the journal papers, conference papers, and technical notes that I have published.  Topics include: AI and machine learning, aircraft design, autopilot design, GPS-INS ("SatNav"), navigation system design, computational fluid dynamics (CFD), applied mathematics and probability theory.
 
 
-
------------------------------------------------------------------------------------
-# ML Flow Chart
-<p align="center">
-	<img width="500" img src="/images/ML_flow_chart.png" style="border-radius: 15px;">
-</p>
-
-This great machine learning flow chart will help you decide the right algorithm for your data. You can download this and other flow-charts [here.](https://github.com/pfroysdon/publications/blob/main/Flow-Chart)
