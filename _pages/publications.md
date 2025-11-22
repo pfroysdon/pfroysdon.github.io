@@ -22,7 +22,7 @@ The links below contain the **Matlab, Python and R code** and a **free chapter p
 - [How to do Research](https://pfroysdon.github.io/publications/).
 - [Optimal Nonlinear Bayesian Estimation and Sensor Fusion](https://github.com/pfroysdon/publications/tree/main/Books/Sensor_Fusion).
 
-
+**To access the code tutorials, you will need the password for the .zip file that is located on the Copyright page of the book.**
 
 
 -----------------------------------------------------------------------------------
