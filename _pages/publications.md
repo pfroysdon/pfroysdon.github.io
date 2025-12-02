@@ -26,7 +26,7 @@ The links below contain the **Matlab, Python and R code** and a **free chapter p
 
 
 -----------------------------------------------------------------------------------
-# Technical Notes
+# Technical Resources
 <p align="center">
 	<img width="500" img src="/images/ls_papers_on_table.png" style="border-radius: 15px;">
 </p>
