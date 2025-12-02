@@ -39,6 +39,8 @@ The [Math References](https://github.com/pfroysdon/publications/tree/main/Math_R
 
 The [Cheatsheet](https://github.com/pfroysdon/publications/blob/main/Cheatsheet) and [Flow-Chart](https://github.com/pfroysdon/publications/blob/main/Flow_Chart) folders have great machine learning tools to help you decide the right algorithm for your data.
 
+The [Bumper Sticker](https://github.com/pfroysdon/publications/tree/main/Books/A_Comprehensive_Approach_to_ML_and_AI) accompanies the book "A Comprehensive Approach to Data Science, Machine Learning and AI," distilling each chapter into one crisp, memorable sentence that sets the tone for the material ahead. 
+
 
 
 -----------------------------------------------------------------------------------
