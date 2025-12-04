@@ -44,11 +44,11 @@ The [Bumper Sticker](https://github.com/pfroysdon/publications/tree/main/Books/A
 
 
 -----------------------------------------------------------------------------------
-# Technical Papers	
+# Conference & Journal Papers	
 <p align="center">
 	<img width="500" img src="/images/conf_papers_on_table.png" style="border-radius: 15px;">
 </p>
 
-The [Technical Papers](https://github.com/pfroysdon/publications/tree/main/Papers) folder contains most of the journal papers, conference papers, and technical notes that I have published.  Topics include: AI and machine learning, aircraft design, autopilot design, GPS-INS ("SatNav"), navigation system design, computational fluid dynamics (CFD), applied mathematics and probability theory.
+The [Conference & Journal Papers](https://github.com/pfroysdon/publications/tree/main/Papers) folder contains most of the journal papers, conference papers, and technical notes that I have published.  Topics include: AI and machine learning, aircraft design, autopilot design, GPS-INS ("SatNav"), navigation system design, computational fluid dynamics (CFD), applied mathematics and probability theory.
 
 
