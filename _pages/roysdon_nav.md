@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Projects"
-permalink: /projects/roysdon_nav
+permalink: /projects/roysdon_nav/
 author_profile: true
 ---
 

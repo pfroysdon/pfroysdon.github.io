@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Projects"
-permalink: /projects/roysdon_ai
+permalink: /projects/roysdon_ai/
 author_profile: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Projects"
-permalink: /projects/roysdon_aero
+permalink: /projects/roysdon_aero/
 author_profile: true
 ---
 
