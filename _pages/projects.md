@@ -15,30 +15,18 @@ Note: **Most projects require a password to access the source code**, while othe
 
 -----------------------------------------------------------------------------------
 # Roysdon AI & Cyber Toolbox
-<p align="center">
-	<img width="180" img src="/images/masked_transformer.png">
-</p>
-
 The [**Roysdon AI & Cyber Toolbox**](https://pfroysdon.github.io/projects/roysdon_ai/) brings together applied mathematics, modern machine learning, and cyber-network analysis into a cohesive engineering toolkit.  This toolbox reflects both peer-reviewed research and operational analytics work.
 <br><br>
 
 
 -----------------------------------------------------------------------------------
 # Roysdon Aero Toolbox
-<p align="center">
-	<img width="600" img src="/images/aircraft_design_toolbox2.png">
-</p>
-
 The [**Roysdon Aero Toolbox**](https://pfroysdon.github.io/projects/roysdon_aero/) is an industry-grade full-stack aircraft and missile engineering environment, spanning conceptual design, high-fidelity simulation, flight controls, and embedded real-time software.  The tools in this toolbox were used to develop, flight test and deploy multiple Military aircraft.
 <br><br>
 
 
 -----------------------------------------------------------------------------------
 # Roysdon Nav Toolbox
-<p align="center">
-	<img width="500" img src="/images/navigation_toolbox2.png">
-</p>
-
 The [**Roysdon Nav Toolbox**](https://pfroysdon.github.io/projects/roysdon_nav/) is an industry-grade state-of-the-art navigation engineering environment, built around optimal estimation theory and real-world sensor behavior.  The tools in this toolbox were used to develop, flight test and deploy multiple Military aircraft.
 <br><br>
 
