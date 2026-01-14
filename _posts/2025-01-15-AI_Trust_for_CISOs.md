@@ -1,5 +1,5 @@
 ---
-title: 'CISO Reality Check: How to Trust AI You Didn't Build'
+title: "CISO Reality Check: How to Trust AI You Didn't Build"
 date: 2025-01-15
 permalink: /posts/2025/01/AI_Trust_for_CISOs/
 tags:
@@ -8,6 +8,7 @@ tags:
   - AI
   - cyber
 ---
+
 
 CISOs have a new problem that doesn’t fit neatly into any traditional control framework:
 
