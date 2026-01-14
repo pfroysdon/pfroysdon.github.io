@@ -29,8 +29,8 @@ main:
 #  - title: "Portfolio"
 #    url: /portfolio/
         
-#  - title: "Blog Posts"
-#    url: /year-archive/
+  - title: "Blog Posts"
+    url: https://pfroysdon.github.io/year-archive/
     
 # - title: "CV"
 #   url: /cv/
