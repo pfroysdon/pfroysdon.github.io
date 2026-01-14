@@ -1,6 +1,6 @@
 ---
 title: 'The Art of Clear Thinking - When Seconds Decide Everything'
-date: 2025-01-13
+date: 2025-01-05
 permalink: /posts/2025/01/The_Art_of_Clear_Thinking/
 tags:
   - decision-making
