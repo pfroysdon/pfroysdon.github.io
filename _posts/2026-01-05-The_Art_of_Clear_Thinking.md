@@ -9,11 +9,13 @@ tags:
   - flying
 ---
 
+**200 MPH. 2,000 feet off the deck. No room for hesitation.**
+
+
 <p align="center">
 	<img width="350" img src="/images/inverted2.png" style="border-radius: 15px;">
 </p>
 
-200 MPH. 2,000 feet off the deck. No room for hesitation.
 
 I’m starting the year by sharing a lesson I learned the hard way — upside down, in an aerobatic aircraft, moving fast enough that "a small problem" becomes a big one in seconds.
 
