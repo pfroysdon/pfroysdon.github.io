@@ -1,20 +1,12 @@
 ---
-title: 'Blog Post number 1'
+title: 'The Art of Clear Thinking'
 date: 2025-01-13
-permalink: /posts/2025/01/blog-post-1/
+permalink: /posts/2025/01/The_Art_of_Clear_Thinking/
 tags:
   - cool posts
   - category1
   - category2
 ---
 
-This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
+Today I thought that I would start the year with a post about something that happened to me whlie flying aerobatics, 200 MPH, and just 2000 ft off the deck.  I was reminded that clear thinking in an emergency, when every milli-second matters, is transferabled to executive leadership.  [Here](https://pfroysdon.github.io/files/Roysdon_1page_The_Art_of_Clear_Thinking.pdf) is the paper.
 
-Headings are cool
-======
-
-You can have many headings
-======
-
-Aren't headings cool?
-------
