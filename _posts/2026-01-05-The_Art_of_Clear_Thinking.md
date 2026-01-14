@@ -12,7 +12,7 @@ tags:
 
 
 <p align="center">
-	<img width="300" img src="/images/inverted.png" style="border-radius: 15px;">
+	<img width="350" img src="/images/inverted.png" style="border-radius: 15px;">
 </p>
 
 
