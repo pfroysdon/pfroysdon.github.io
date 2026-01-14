@@ -1,7 +1,7 @@
 ---
 title: 'The Art of Clear Thinking - When Seconds Decide Everything'
-date: 2025-01-05
-permalink: /posts/2025/01/The_Art_of_Clear_Thinking/
+date: 2026-01-05
+permalink: /posts/2026/01/The_Art_of_Clear_Thinking/
 tags:
   - decision-making
   - leadership
