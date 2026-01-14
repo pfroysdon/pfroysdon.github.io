@@ -1,7 +1,8 @@
 ---
-title: 'The Next Decade of Cyber: Build for Resilience, Not Alerts'
+title: "The Next Decade of Cyber: Build for Resilience, Not Alerts"
 date: 2025-10-14
 permalink: /posts/2025/10/National_Cyber_Roadmap/
+layout: single
 tags:
   - decision-making
   - leadership
@@ -9,7 +10,7 @@ tags:
   - National Security
 ---
 
-**Cyber risk is now a persistent strategic threat—impacting national security, public safety, and economic stability.**
+Cyber risk is now a persistent strategic threat—impacting national security, public safety, and economic stability.
 
 What's changing isn't just the threat landscape. It's the national response: the U.S. is moving away from voluntary, outcome-light security postures and toward outcome-based regulation, software liability pressure, and architectures that remove entire classes of failure (zero trust, memory-safe software, and post-quantum cryptography). 
 

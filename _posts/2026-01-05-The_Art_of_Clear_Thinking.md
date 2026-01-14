@@ -1,14 +1,15 @@
 ---
-title: 'The Art of Clear Thinking - When Seconds Decide Everything'
+title: "The Art of Clear Thinking - When Seconds Decide Everything"
 date: 2026-01-05
 permalink: /posts/2026/01/The_Art_of_Clear_Thinking/
+layout: single
 tags:
   - decision-making
   - leadership
   - flying
 ---
 
-**200 MPH. 2,000 feet off the deck. No room for hesitation.**
+200 MPH. 2,000 feet off the deck. No room for hesitation.
 
 
 <p align="center">

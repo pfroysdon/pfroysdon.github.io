@@ -1,7 +1,8 @@
 ---
-title: 'The Quantum "Space Race" Moment Is Here'
+title: "The Quantum 'Space Race' Moment Is Here"
 date: 2025-11-15
 permalink: /posts/2025/11/Quantum_Roadmap/
+layout: single
 tags:
   - decision-making
   - leadership
@@ -10,7 +11,7 @@ tags:
   - National Security
 ---
 
-**Quantum AI Isn't "Coming Someday." It's Becoming an Engineering Deadline.**
+Quantum AI Isn't "Coming Someday." It's Becoming an Engineering Deadline.
 
 Most people still think quantum computing is a science project. That framing is already obsolete.
 

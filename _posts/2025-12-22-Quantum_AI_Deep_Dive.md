@@ -1,7 +1,8 @@
 ---
-title: 'The Road to a Million Qubits: Why the Hard Part Is Now Systems Engineering'
+title: "The Road to a Million Qubits: Why the Hard Part Is Now Systems Engineering"
 date: 2025-12-22
 permalink: /posts/2025/12/Quantum_AI_Deep_Dive/
+layout: single
 tags:
   - decision-making
   - leadership
@@ -10,7 +11,7 @@ tags:
   - National Security
 ---
 
-**Quantum isn't "a qubit problem." It's a systems + infrastructure problem.**
+Quantum isn't "a qubit problem." It's a systems + infrastructure problem.
 
 When people picture quantum computing, they imagine a refrigerator-sized machine in a lab.
 

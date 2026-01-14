@@ -1,7 +1,8 @@
 ---
-title: 'National-Scale AI: The Blueprint for U.S. Advantage and Security'
+title: "National-Scale AI: The Blueprint for U.S. Advantage and Security"
 date: 2025-09-08
 permalink: /posts/2025/09/AI_for_National_Security/
+layout: single
 tags:
   - decision-making
   - leadership
@@ -9,7 +10,7 @@ tags:
   - National Security
 ---
 
-**AI is no longer a “software story.” It’s a national infrastructure story.**
+AI is no longer a “software story.” It’s a national infrastructure story.
 
 Most people talk about AI in terms of demos—chatbots, copilots, and clever automations. Leaders can’t afford to think that way. Real advantage comes from what’s underneath: compute, energy, data pipelines, security, governance, and the ability to deploy at scale.
 

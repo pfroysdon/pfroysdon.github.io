@@ -1,14 +1,15 @@
 ---
-title: 'Your biggest risk isn’t comp—it’s the room you’re walking into.'
+title: "Your biggest risk isn’t comp—it’s the room you’re walking into."
 date: 2025-09-30
 permalink: /posts/2025/09/Employment_Trap/
+layout: single
 tags:
   - decision-making
   - leadership
   - flying
 ---
 
-**Thoughts while flying vertical!**
+Thoughts while flying vertical!
 
 
 <p align="center">
