@@ -1,5 +1,5 @@
 ---
-title: "Your biggest risk isn’t comp—it’s the room you’re walking into."
+title: "Your biggest risk isn’t compensation — it’s the room you’re walking into."
 date: 2025-09-30
 permalink: /posts/2025/09/Employment_Trap/
 layout: single
