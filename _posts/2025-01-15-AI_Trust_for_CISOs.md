@@ -2,6 +2,7 @@
 title: "CISO Reality Check: How to Trust AI You Didn't Build"
 date: 2025-01-15
 permalink: /posts/2025/01/AI_Trust_for_CISOs/
+layout: single
 tags:
   - decision-making
   - leadership
