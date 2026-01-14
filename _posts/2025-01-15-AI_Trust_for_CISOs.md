@@ -11,7 +11,7 @@ tags:
 
 CISOs have a new problem that doesn’t fit neatly into any traditional control framework:  **How do you trust AI you didn’t build — running in clouds you don’t control — moving data through vendors you can’t fully see?**
 
-The security conversation usually starts with "model risk." That's real. But the bigger operational risk is often everything around the model: the API calls, the cloud hops, the third-party tooling, and the unanswered question of who moved what data, where, and under whose protection. That's not just provenance — it's data Chain of Custody (CoC)** and accountability across the entire path. 
+The security conversation usually starts with "model risk." That's real. But the bigger operational risk is often everything around the model: the API calls, the cloud hops, the third-party tooling, and the unanswered question of who moved what data, where, and under whose protection. That's not just provenance — it's data Chain of Custody (CoC) and accountability across the entire path. 
 
 Meanwhile, AI is already being used offensively — phishing generation, stealth malware concepts, credential stuffing optimization — and cloud-hosted AI services can be stolen, manipulated, or extracted through adversarial and model inversion techniques. 
 
