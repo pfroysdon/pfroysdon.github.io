@@ -10,7 +10,7 @@ tags:
 
 **200 MPH. 2,000 feet off the deck. No room for hesitation.**
 
-I’m starting the year with a lesson I learned the hard way—upside down, in an aerobatic aircraft, moving fast enough that “a small problem” becomes a big one in seconds.
+I’m starting the year with a lesson I learned the hard way—upside down, in an aerobatic aircraft, moving fast enough that "a small problem" becomes a big one in seconds.
 
 In that moment, I was reminded of something most leadership advice gets wrong: clear thinking under pressure isn’t about personality. It’s about process. When time compresses and uncertainty spikes, the leaders who perform aren’t the loudest or the most confident—they’re the ones who can rapidly:
 - stabilize attention (stop the mental chaos),
@@ -22,8 +22,8 @@ That skill is transferable. The aircraft is different—but the pressure pattern
 
 I wrote a short paper on the framework behind this—how to think clearly when every millisecond matters, and how that maps directly to executive decision-making.
 
-[Read it here](https://pfroysdon.github.io/files/Roysdon_1page_The_Art_of_Clear_Thinking.pdf) is the paper.
+**Read it here:** [The_Art_of_Clear_Thinking.pdf](https://pfroysdon.github.io/files/Roysdon_1page_The_Art_of_Clear_Thinking.pdf)
 
 If you’re stepping into bigger leadership, this is one of the most trainable advantages you can build: the ability to stay precise when everyone else gets noisy.
 
-*When was the last time you had to decide with seconds—not days?*
+&rarr; *When was the last time you had to decide with seconds -- not days?*
