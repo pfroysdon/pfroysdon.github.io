@@ -6,6 +6,7 @@ tags:
   - decision-making
   - leadership
   - AI
+  - Quantum
   - National Security
 ---
 
