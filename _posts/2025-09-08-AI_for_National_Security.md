@@ -1,7 +1,7 @@
 ---
 title: 'National-Scale AI: The Blueprint for U.S. Advantage and Security'
-date: 2025-03-08
-permalink: /posts/2025/03/AI_for_National_Security/
+date: 2025-09-08
+permalink: /posts/2025/09/AI_for_National_Security/
 tags:
   - decision-making
   - leadership
