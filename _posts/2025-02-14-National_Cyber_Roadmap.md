@@ -1,7 +1,7 @@
 ---
 title: "The Next Decade of Cyber: Build for Resilience, Not Alerts"
-date: 2025-10-14
-permalink: /posts/2025/10/National_Cyber_Roadmap/
+date: 2025-02-14
+permalink: /posts/2025/02/National_Cyber_Roadmap/
 layout: single
 tags:
   - decision-making
