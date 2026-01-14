@@ -17,31 +17,31 @@ tags:
 
 I was recently practicing for an upcoming aerobatic competition. I was in the vertical and a thought crossed my mind...
 
-**Traps. Specifically: employment traps.**
+**Traps. Specifically: employment traps.**  
 
-OK, I’ll let you in on a little secret.
+My mind wandered to [
+this post](https://www.linkedin.com/posts/arpadszakal_culturematters-leadership-aviation-activity-7329946117540835328-3jFK?utm_source=share&utm_medium=member_desktop&rcm=ACoAADKq4ToBANmtKQro64mKKWbcMbX84K-NbFU), part of which I quoted here, and applies to all levels, not just executive ones:
 
-The biggest risk in any executive job (or any level position) move isn’t the compensation.
-It’s not the title.
-It’s not even the scope.
-
-It’s the **team you’re walking into**.
-
-The politics.
-The support you’ll get when the heat's on.
-And the battles no one warns you about.
-
-Because at the executive level, you don't "execute a strategy."
-You execute a strategy through people who have their own priorities.
-
-And yet, too many seasoned candidates ask questions like:
-- "What's the 90-day plan?"
-- "What's the company vision?"
-- "What's the culture like?"
-
-Nice.
-Polite.
-Useless.
+>OK, I’ll let you in on a little secret.
+>
+>The biggest risk in any executive job move isn’t the compensation.
+>It’s not the title.
+>It’s not even the scope.
+>It’s the **team you’re walking into**.
+>
+>The politics.
+>The support you’ll get when the heat's on.
+>And the battles no one warns you about.
+>
+>Because at the executive level, you don't "execute a strategy."
+>You execute a strategy through people who have their own priorities.
+>
+>And yet, too many seasoned candidates ask questions like:
+>- "What's the 90-day plan?"
+>- "What's the company vision?"
+>- "What's the culture like?"
+>
+>Nice. Polite. Useless.
 
 Those questions produce rehearsed answers.
 
