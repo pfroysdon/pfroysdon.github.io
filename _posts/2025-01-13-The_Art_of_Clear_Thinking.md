@@ -3,10 +3,27 @@ title: 'The Art of Clear Thinking'
 date: 2025-01-13
 permalink: /posts/2025/01/The_Art_of_Clear_Thinking/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - decision-making
+  - leadership
+  - flying
 ---
 
-Today I thought that I would start the year with a post about something that happened to me whlie flying aerobatics, 200 MPH, and just 2000 ft off the deck.  I was reminded that clear thinking in an emergency, when every milli-second matters, is transferabled to executive leadership.  [Here](https://pfroysdon.github.io/files/Roysdon_1page_The_Art_of_Clear_Thinking.pdf) is the paper.
+**200 MPH. 2,000 feet off the deck. No room for hesitation.**
 
+I’m starting the year with a lesson I learned the hard way—upside down, in an aerobatic aircraft, moving fast enough that “a small problem” becomes a big one in seconds.
+
+In that moment, I was reminded of something most leadership advice gets wrong: clear thinking under pressure isn’t about personality. It’s about process. When time compresses and uncertainty spikes, the leaders who perform aren’t the loudest or the most confident—they’re the ones who can rapidly:
+- stabilize attention (stop the mental chaos),
+- separate signal from noise (what matters right now),
+- choose a path (and commit),
+- execute cleanly (without overcorrecting).
+
+That skill is transferable. The aircraft is different—but the pressure pattern is the same: incomplete information, high consequence, and a clock that doesn’t care how smart you are.
+
+I wrote a short paper on the framework behind this—how to think clearly when every millisecond matters, and how that maps directly to executive decision-making.
+
+[Read it here](https://pfroysdon.github.io/files/Roysdon_1page_The_Art_of_Clear_Thinking.pdf) is the paper.
+
+If you’re stepping into bigger leadership, this is one of the most trainable advantages you can build: the ability to stay precise when everyone else gets noisy.
+
+*When was the last time you had to decide with seconds—not days?*
