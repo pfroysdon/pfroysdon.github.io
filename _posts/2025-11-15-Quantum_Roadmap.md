@@ -1,7 +1,7 @@
 ---
 title: 'The Quantum "Space Race" Moment Is Here'
 date: 2025-11-15
-permalink: /posts/2025/11/Quantum_AI/
+permalink: /posts/2025/11/Quantum_Roadmap/
 tags:
   - decision-making
   - leadership
@@ -18,7 +18,7 @@ In my latest paper, I lay out what the field is converging on: the million-qubit
 
 The real story isn't hype. It's the engineering stack: control electronics that can program millions of qubits, error correction that actually suppresses error rates, and facility-scale realities like cryogenics, wiring, and power. A system of this scale may draw data-center-class power (on the order of ~10–20 MW, depending on architecture) — because "the computer" is the quantum hardware plus the classical control plane that makes it run. And the timeline pressure is real. Recent research (see the [Gidney paper](https://arxiv.org/pdf/2505.15917)) estimates suggest RSA-2048 could be within reach with ~1 million noisy qubits running for about a week, given algorithm and error-correction advances. My paper is a roadmap — hardware platforms, software, error correction, and systems engineering — written for leaders who need to plan for quantum as national infrastructure, not a curiosity.
 
-**Read it here:** Quantum_Roadmap.pdf
+**Read it here:** [Quantum_Roadmap.pdf](https://pfroysdon.github.io/files/Quantum_Roadmap.pdf)
 
 Final Thoughts: 
 - If quantum becomes infrastructure, who in your organization owns the plan—security, IT, R&D, or the CEO?  
