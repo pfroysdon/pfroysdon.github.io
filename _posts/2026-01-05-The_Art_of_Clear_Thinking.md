@@ -13,10 +13,10 @@ tags:
 I’m starting the year with a lesson I learned the hard way—upside down, in an aerobatic aircraft, moving fast enough that "a small problem" becomes a big one in seconds.
 
 In that moment, I was reminded of something most leadership advice gets wrong: clear thinking under pressure isn’t about personality. It’s about process. When time compresses and uncertainty spikes, the leaders who perform aren’t the loudest or the most confident—they’re the ones who can rapidly:
-- stabilize attention (stop the mental chaos),
-- separate signal from noise (what matters right now),
-- choose a path (and commit),
-- execute cleanly (without overcorrecting).
+- **stabilize attention** (stop the mental chaos),
+- **separate signal from noise** (what matters right now),
+- **choose a path** (and commit),
+- **execute cleanly** (without overcorrecting).
 
 That skill is transferable. The aircraft is different—but the pressure pattern is the same: incomplete information, high consequence, and a clock that doesn’t care how smart you are.
 
