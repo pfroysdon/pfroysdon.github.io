@@ -1,5 +1,5 @@
 ---
-title: "Echoes in the Cockpit: Why Investing in the Next Generation Is the Only Way Leaders Can Move the Needle."
+title: "What a 30‑minute flight taught me about moving the needle in leadership."
 date: 2025-08-28
 permalink: /posts/2025/08/Echoes_in_Eternity/
 layout: single
@@ -12,7 +12,7 @@ tags:
 Thoughts while flying with my daughter...
 
 <p align="center">
-	<img width="180" img src="/images/pitts1.png" style="border-radius: 15px;">
+	<img width="350" img src="/images/pitts1.png" style="border-radius: 15px;">
 </p>
 
 > *“What we do in life echoes in eternity.”* — *Gladiator*  
