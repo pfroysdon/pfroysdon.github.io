@@ -34,6 +34,15 @@ That line became my north star for both life and leadership.
 
 ---
 
+### A Family Lesson That Still Rings True
+My grandfather retired from the Navy after 40 years of service—he started as an E‑1 (the lowest enlisted rank) and rose to O‑7, an admiral. His mantra was simple, yet profound:
+
+>“Listen to the youngest guy on the ship, an E‑1, because they are closest to the action and will have insight that no one else has.”
+
+He taught me that fresh eyes see problems before they become crises—a lesson that translates perfectly from a carrier deck to a corporate boardroom.
+
+---
+
 ### From Cockpit to Boardroom: Three Leadership Imperatives
 
 | # | Imperative | Why It Matters (the “needle”) | Quick Action |
