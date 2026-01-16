@@ -6,8 +6,8 @@ layout: single
 tags:
   - decision-making
   - leadership
-  - Cybersecurity
-  - National Security
+  - cybersecurity
+  - national security
 ---
 
 Cyber risk is now a persistent strategic threat—impacting national security, public safety, and economic stability.
@@ -25,5 +25,7 @@ The core build plan is straightforward:
 - Resilience and recovery (2030–2035): self-healing architectures, regulatory convergence, and full PQC migration for high-value assets. 
 
 This isn't about "more tools." It's about engineering outcomes—reduced blast radius, faster containment, faster recovery, and a posture that can keep up with real adversaries. 
+
+All of this information is publically available.  My paper just summarizes hundreds of research papers, corporate and academic websites, and market analysis.
 
 **Read it here:** [Cyber_Roadmap.pdf](https://pfroysdon.github.io/files/Cyber_Roadmap.pdf)

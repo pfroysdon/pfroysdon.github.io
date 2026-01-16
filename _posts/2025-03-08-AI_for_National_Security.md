@@ -7,7 +7,7 @@ tags:
   - decision-making
   - leadership
   - AI
-  - National Security
+  - national security
 ---
 
 AI is no longer a “software story.” It’s a national infrastructure story.
@@ -19,6 +19,8 @@ In my latest paper, "AI for National Security," I make a straightforward case: i
 The core issue isn’t imagination. It’s execution. Frontier AI increasingly concentrates in a handful of organizations with the capital, compute, and talent to build at scale—while public-sector missions face slower acquisition, fragmented data, and uneven access to serious infrastructure.
 
 This paper lays out a practical blueprint: national-scale compute access, modern data architecture, secure deployment patterns, and acquisition models that match the speed of threats. It’s a build plan—focused on capability, accountability, and time-to-field.
+
+All of this information is publically available.  My paper just summarizes hundreds of research papers, corporate and academic websites, and market analysis.
 
 **Read the paper + exec summary here:**
 - [AI_for_NatSec_ExecSummary.pdf](https://pfroysdon.github.io/files/AI_for_NatSec_ExecSummary.pdf)

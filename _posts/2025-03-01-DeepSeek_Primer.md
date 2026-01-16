@@ -7,7 +7,8 @@ tags:
   - decision-making
   - leadership
   - AI
-  - National Security
+  - cybersecurity
+  - national security
 ---
 
 Most "model comparisons" fixate on benchmarks. That misses the real story.  DeepSeek was not a suprise, it was a necessary evolution in a resource-constrained (i.e., GPU constrained) environment.

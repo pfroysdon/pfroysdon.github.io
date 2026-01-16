@@ -7,7 +7,7 @@ tags:
   - decision-making
   - leadership
   - AI
-  - cyber
+  - cybersecurity
 ---
 
 

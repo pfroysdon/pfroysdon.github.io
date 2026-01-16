@@ -1,5 +1,5 @@
 ---
-title: "The Road to a Million Qubits: Why the Hard Part Is Now Systems Engineering"
+title: "Quantum-AI and The Road to a Million Qubits: Why the Hard Part Is Now Systems Engineering"
 date: 2025-12-22
 permalink: /posts/2025/12/Quantum_AI_Deep_Dive/
 layout: single
@@ -7,8 +7,8 @@ tags:
   - decision-making
   - leadership
   - AI
-  - Quantum
-  - National Security
+  - quantum
+  - national security
 ---
 
 Quantum isn't "a qubit problem." It's a systems + infrastructure problem.
@@ -28,6 +28,7 @@ In my new paper, I map the quantum race end-to-end, applying lessons from recent
 
 I also argue we're entering a new phase: frontier AI systems (Gemini/ Claude/ ChatGPT-class) will compress the research loop — accelerating literature synthesis, hardware/software co-design, control-code generation, and experiment planning — so "time to insight" becomes a strategic advantage.
 
+All of this information is publically available.  My paper just summarizes hundreds of research papers, corporate and academic websites, and market analysis.
 
 **Read it here:** [Quantum_AI_Deep_Dive.pdf](https://pfroysdon.github.io/files/Quantum_AI_Deep_Dive.pdf)
 
