@@ -87,7 +87,7 @@ Repeat, and soon the process will be second nature—even when the stakes are sk
 
 #### Share Your Story  
 
-Have you ever faced a “seconds” decision in your career? Drop a email — let’s build a playbook together.  
+Have you ever faced a “seconds” decision in your career? Drop an email — let’s build a playbook together.  
 
 ---  
 
