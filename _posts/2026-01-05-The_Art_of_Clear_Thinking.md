@@ -20,7 +20,7 @@ tags:
 
 ### Why I’m Starting the Year Upside‑Down  
 
-A few weeks ago I was flying an aerobatic Pitts at **200 mph**, inverted, just **2,000 ft** above the ground. A sudden mechanical failure casued me to lose most of my fuel while I was under negative G. The canopy filled with fuel, the horizon vanished, and I had **under one second** to answer three questions:
+A few weeks ago I was flying an aerobatic Pitts at **200 mph**, inverted, just **2,000 ft** above the ground. A sudden mechanical failure caused me to lose most of my fuel while I was under negative G. The canopy filled with fuel, the horizon vanished, and I had **under one second** to answer three questions:
 
 1. **Where am I?** – Re‑orient the aircraft before I lost spatial awareness.  
 2. **Can I stay airborne?** – Is the remaining fuel enough for a recovery?  
