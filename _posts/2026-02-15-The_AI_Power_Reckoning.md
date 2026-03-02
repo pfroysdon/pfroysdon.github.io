@@ -1,7 +1,7 @@
 ---
 title: "The AI Power Reckoning: Why Small Modular Reactors Are Back"
 date: 2026-02-15
-permalink: /posts/2026/01/The_AI_Power_Reckoning/
+permalink: /posts/2026/02/The_AI_Power_Reckoning/
 layout: single
 tags:
   - decision-making

@@ -30,7 +30,7 @@ I also argue we're entering a new phase: frontier AI systems (Gemini/ Claude/ Ch
 
 All of this information is publically available.  My paper just summarizes hundreds of research papers, corporate and academic websites, and market analysis.
 
-**Read it here:** [Quantum_AI_Deep_Dive.pdf](https://pfroysdon.github.io/files/Quantum_AI_Deep_Dive.pdf)
+**Read it here:** [Quantum_AI_Deep_Dive_v2.pdf](https://pfroysdon.github.io/files/Quantum_AI_Deep_Dive_v2.pdf)
 
 Final Thoughts: <br>
 If quantum's finish line is a campus-scale build (not a lab demo), who is your organization betting on — and what would it take to place a credible, defensible bet now?
