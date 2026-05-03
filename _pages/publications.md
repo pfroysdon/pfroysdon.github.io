@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-I focus on clear declaration of variables and documentation of equations/algorithms, e.g., full derivations and proofs, not found elsewhere in the literature.
+I focus on clear declaration of variables, equations, and algorithms, with full derivations and proofs not found elsewhere in the literature.
 
 
 -----------------------------------------------------------------------------------
