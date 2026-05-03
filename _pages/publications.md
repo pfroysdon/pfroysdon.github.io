@@ -15,7 +15,7 @@ I focus on clear declaration of variables, equations, and algorithms, with full 
 	<img width="500" img src="/images/ai_books_on_table_v2.png" style="border-radius: 15px;">
 </p>
 
-The links below contain the **Matlab, Python and R code** and a **free chapter preview** for each of my books that can be purchased [**here**](https://www.roysdonfibonaccipress.com/).
+The links below contain the **Matlab, Python and R code** and a **free chapter preview** for each of my books that can be [**purchased here**](https://www.roysdonfibonaccipress.com/).
 - [A Comprehensive Approach to Data Science, Machine Learning and AI](https://github.com/pfroysdon/publications/tree/main/Books/A_Comprehensive_Approach_to_ML_and_AI).
 - [Math **Refresher** for Data Science, Machine Learning and AI](https://github.com/pfroysdon/publications/tree/main/Books/Math_Refresher).
 - [Math **Handbook** for Data Science, Machine Learning and AI](https://github.com/pfroysdon/publications/tree/main/Books/Math_Handbook).
