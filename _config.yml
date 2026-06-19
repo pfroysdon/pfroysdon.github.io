@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Doc Roysdon"
 title_separator          : "-"
-name                     : &name "Doc Roysdon"
+name                     : &name "'Doc' Roysdon"
 description              : &description "Executive Technology Leader, Applied Mathematician and Engineer."
 url                      : https://pfroysdon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Doc Roysdon"
+  name             : "'Doc' Roysdon"
   avatar           : "pitts5.png"
   bio              : "Technology Leader, Applied Mathematician and Engineer."
   location         : "Texas"
