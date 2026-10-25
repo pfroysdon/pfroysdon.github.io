@@ -1,15 +1,15 @@
 # main links links
 main:
-  - title: "Books & Software"
+#  - title: "Books & Software"
 #    url: /books/
-    url: https://www.roysdonfibonaccipress.com/
+#    url: https://www.roysdonfibonaccipress.com/
 
   - title: "Technical Papers"
     url: /publications/
 #    url: https://github.com/pfroysdon/publications
 
-  - title: "Projects"
-    url: /projects/
+#  - title: "Projects"
+#    url: /projects/
 #    url: https://github.com/pfroysdon/projects
 
 #  - title: "Reading Rack"
